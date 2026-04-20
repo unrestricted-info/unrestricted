@@ -10,7 +10,7 @@ featured: true
 hidden: true
 ---
 
-#### Trans-atlantic cables at risk!
+#### Trans-atlantic cables at risk
 
 Recently, the BBC reported on April the 10th 2026, that the UK military chased away three Russian submarines conducting covert operation over cables and pipelines in the waters north of the UK. 
 
@@ -34,7 +34,7 @@ Do people remember that China has been doing this to Taiwan for quite some time 
 
 However, even more interesting actions from Russia recently beg the question - Does the UK really control their water ways any more?
 
-#### Russian shadow tankers transit the English Channel!
+#### Russian shadow tankers transit the English Channel
 
 Russia sent two shadow fleet oil tankers through the English Channel escorted by a Russian navy frigate:
 
