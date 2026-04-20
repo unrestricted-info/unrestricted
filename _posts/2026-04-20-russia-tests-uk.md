@@ -12,7 +12,7 @@ hidden: true
 
 #### Trans-atlantic cables at risk!
 
-Recently the BBC reported on April the 10th 2026, the UK military chased away three Russian submarines conducting covert operation over cables and pipeles in the waters north of the UK. 
+Recently, the BBC reported on April the 10th 2026, that the UK military chased away three Russian submarines conducting covert operation over cables and pipeles in the waters north of the UK. 
 
 [BBC report - Russian Subs in UK waters](https://www.bbc.com/news/articles/cre13qn9z7do)
 
@@ -34,17 +34,18 @@ Do people remember that China has been doing this to Taiwan for quite some time 
 
 However, even more interesting actions from Russia recently beg the question - Does the UK really control their water ways any more?
 
-#### Rusian shadow tankers transit the English Channel!
+#### Russian shadow tankers transit the English Channel!
 
 Russia sent two shadow fleet oil tankers through the English Channel escorted by a Russian navy frigate:
 
 [Report - Russian Shadow fleet traverses English Channel](https://responsiblestatecraft.org/uk-russia-shadow-fleet/)
 
-The once, ocean-ruling, English Navy is a shadow of its former self. And when you look at the details of the UK Navy, the problem is deeper and darker than you think.
+The once, ocean-ruling English Navy, is a shadow of its former self. And when you look at the details of the UK Navy, the problem is deeper and darker than you think.
 
 [Report - Poor state of the UK Navy](https://www.navylookout.com/britain-wakes-up-to-the-condition-of-its-navy/)
 
-From a 2024 report, the UK Navy is not in a good shape. When you look at the numbers of personnel (18th rank) and lacking the depth of most near countries especially in patrol vessels (37th) you would think the government would be in a rush to remedy this?
+From a 2024 report, the UK Navy is not in a good shape. When you look at the numbers of personnel (18th rank) and lacking the stategic depth of many countries especially in patrol vessels (37th) you would think the government would be in a rush to remedy this?
+
 Nope. In fact, budgets are being cut:
 
 "With defence spending discussions due this week, military leaders are understood to have been asked to find £3.5bn in savings this year, even as the armed forces are being readied for conflict."
