@@ -27,11 +27,14 @@ And China is even promoting how they are doing it as well:
 [South China Morning Post - China has a cable cutter](https://www.scmp.com/news/china/science/article/3303246/china-unveils-powerful-deep-sea-cable-cutter-could-reset-world-order)
 
 You dont have to be a rocket scientist to see what is happening here, but the international community seems oddly quiet about all this?
-And how China has been doing this to Taiwan for quite some time alrady.
+
+Do people remember that China has been doing this to Taiwan for quite some time already?
 
 [ABC News - Taiwan cables being cut by suspected Chinese ships](https://www.abc.net.au/news/2025-05-17/is-china-cutting-taiwan-internet-cables-as-psychological-warfare/105281582)
 
 However, even more interesting actions from Russia recently beg the question - Does the UK really control their water ways any more?
+
+#### Rusian shadow tankers transit the English Channel!
 
 Russia sent two shadow fleet oil tankers through the English Channel escorted by a Russian navy frigate:
 
