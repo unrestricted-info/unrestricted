@@ -5,7 +5,7 @@ description: "Information not constrained by propaganda and media."
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 baseurl: /
-disqus: 'demowebsite'
+disqus: 'unrestrictedinfo'
 include: ["_pages"]
 permalink: /:title/
 
