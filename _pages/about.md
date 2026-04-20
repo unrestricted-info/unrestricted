@@ -15,7 +15,7 @@ comments: true
 <p>The information provided will be from many sources and shall be as accurate as can be discerned.
 If you notice or want to report an inconsistency or flaw please see the github site and raise an issue.</p>
 
-<p>[Issues or concerns](https://github.com/unrestricted-info/unrestricted/issues)</p>
+[Issues or concerns](https://github.com/unrestricted-info/unrestricted/issues)
 
 </div>
 
