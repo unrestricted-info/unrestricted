@@ -12,7 +12,7 @@ hidden: true
 
 #### Trans-atlantic cables at risk!
 
-Recently, the BBC reported on April the 10th 2026, that the UK military chased away three Russian submarines conducting covert operation over cables and pipeles in the waters north of the UK. 
+Recently, the BBC reported on April the 10th 2026, that the UK military chased away three Russian submarines conducting covert operation over cables and pipelines in the waters north of the UK. 
 
 [BBC report - Russian Subs in UK waters](https://www.bbc.com/news/articles/cre13qn9z7do)
 
