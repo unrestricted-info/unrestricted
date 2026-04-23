@@ -119,4 +119,4 @@ Australia's government introduced the Button Plan in the 90s which resulted in p
 
 Mark my words. AUKUS is a dead man walking. There is no way Australia will ever make another submarine without a serious change in society, industry and education. 
 
-Hear my words UK. If you want to become like Australia, and have little to no ships, little to no shipbuilding industry, please get your industries and gov re-oriented. Without it your nation as a great nation of the world is over.
+Hear my words UK. If you want to become like Australia, and have little to no ships, little to no shipbuilding industry, please get your industries and gov re-oriented. Without it, your nation as a great nation of the world, is over.
