@@ -7,7 +7,6 @@ tags: [red, yellow]
 image: assets/images/2026-04/2026-04-23_14-21-trawan-straight.png
 description: "Japan sent a destroyer through the Taiwan strait for the first time on ist way to training with the Philippines and the US. It travelled very slowly though."
 featured: true
-hidden: true
 ---
 
 

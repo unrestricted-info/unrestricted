@@ -7,7 +7,6 @@ tags: [red, yellow]
 image: assets/images/2026-04/UK-navy-photo-free.jpg
 description: "Russia is testing the UK and the EU in how they respond to military provocations."
 featured: true
-hidden: true
 ---
 
 #### Trans-atlantic cables at risk
