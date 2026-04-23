@@ -32,7 +32,7 @@ The Philipines even won a UN legal case against the Chinese incursions into thei
 
 [ABC Aus - Philipines celebrate victory in South China Sea case](https://www.abc.net.au/news/2016-07-13/philippines-celebrates-victory-in-south-china-sea-case/7623440)
 
-Isnt it interesting, that 10 years later the world still accepts Chinas aggressive movements in the South China Sea? And most people dont know how agressive this has been:
+Isnt it interesting, that 10 years later the world still accepts Chinas aggressive movements in the South China Sea? And most people dont know how aggressive this has been:
 
 [ABC News AU - Philipines accuses China of damaging Vessels](https://www.abc.net.au/news/2024-05-01/philippines-accuses-china-of-damaging-vessels-at-sea/103788562)
 
@@ -62,7 +62,7 @@ As can be seen from all these developments, China has encroached on many of its 
 
 [CSIS - Illuminating the South China Seas Dark Fishing Fleets](https://ocean.csis.org/spotlights/illuminating-the-south-china-seas-dark-fishing-fleets/)
 
-Honestly, Chinas fishing fleets are destroying the world, but I'll do a separate post about that (it is insanely huge how many countries are affected by them).
+Honestly, Chinas fishing fleets are destroying the world, but I'll cvover that in a separate post - it is huge how many countries are affected by these coordinated massive chinese fleets. When you can see them from space, you know there is a problem.
 
 Vietnam has decided to do the same to combat this problem:
 
