@@ -21,6 +21,8 @@ I spent some time looking into the current status of the UK Navy, and it seems i
 
 Heres a table of the active ships in the UK Navy and their status (as best can be determined). 
 
+--- 
+
 ##### Aircraft Carriers:
 
 | Ship Name                 | Seaworthy   | Manned      | State       |  Where            |
@@ -28,7 +30,8 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 | HMS Prince of Wales (R09) | Yes         | Yes         | Moored      | PortsMouth        |
 | HMS Queen Elizabeth (R08) | Unknown     | Not Fully   | Repairs     | Rosyth - Tugs     | 
   
-  
+--- 
+
 ##### Destroyers:
 
 | Ship Name      | Seaworthy   | Manned     | State         |  Where            |
@@ -41,7 +44,8 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 | HMS Duncan     | Yes         | Unknown    | Moored        | Portsmouth        |
 | HMS Dauntless  | Yes         | Yes        | Stopped       | Portsmouth        |
   
-  
+--- 
+
 ##### Frigates:
 
 | Ship Name           | Seaworthy   | Manned     | State         |  Where            |
@@ -62,6 +66,7 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 
 [Cruising Earth - Ship movement](https://www.cruisingearth.com/ship-tracker/royal-navy/)
 
+--- 
 
 ##### Submarines:
 
