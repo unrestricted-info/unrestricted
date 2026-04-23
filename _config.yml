@@ -14,7 +14,7 @@ authors:
   sal:
     name: PR
     display_name: pr
-    gravatar: '/images/avatar.png'
+    avatar: '/images/avatar.png'
     email: blah@gmail.com
     web: https://blog.unrestricted.info
     twitter: 
