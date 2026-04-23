@@ -27,38 +27,40 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 
 ##### Aircraft Carriers:
 
-| Ship Name                 | Seaworthy   | Manned    | State       |  Where            |
-| ------------------------- | ----------- |---------- |------------ |------------------ |
-| HMS Prince of Wales (R09) | Yes         | Yes       | Moored      | PortsMouth        |
-| HMS Queen Elizabeth (R08) | Unknown     | Not Fully | Repairs     | Rosyth - Tugs     | 
+| Ship Name                 | Seaworthy   | Manned      | State       |  Where            |
+| ------------------------- | ----------- |------------ |------------ |------------------ |
+| HMS Prince of Wales (R09) | Yes         | Yes         | Moored      | PortsMouth        |
+| HMS Queen Elizabeth (R08) | Unknown     | Not Fully   | Repairs     | Rosyth - Tugs     | 
 
 
 ##### Destroyers:
 
-| Ship Name      | Seaworthy   | Manned   | State       |  Where            |
-| -------------- | ----------- |--------- |------------ |------------------ |
-| HMS Daring     | Yes         | Yes      | Moored      | Muara Town        |
-| HMS Dauntless  | Yes         | Yes      | Stopped     | Portsmouth        |
-| HMS Defender   | Yes         | Yes      | Underway    | Clyde Sea         |
-| HMS Diamond    | Yes         | Yes      | Underway    | Baltic Sea        |
-| HMS Dragon     | Yes?        | Yes      | Underway    | Cyprus            |
-| HMS Duncan     | Yes         | Unknown  | Moored      | Portsmouth        |
-| HMS Dauntless  | Yes         | Yes      | Stopped     | Portsmouth        |
+| Ship Name      | Seaworthy   | Manned   | State         |  Where            |
+| -------------- | ----------- |--------- |-------------- |------------------ |
+| HMS Daring     | Yes         | Yes      | Moored        | Muara Town        |
+| HMS Dauntless  | Yes         | Yes      | Stopped       | Portsmouth        |
+| HMS Defender   | Yes         | Yes      | Underway      | Clyde Sea         |
+| HMS Diamond    | Yes         | Yes      | Underway      | Baltic Sea        |
+| HMS Dragon     | Yes?        | Yes      | Underway      | Cyprus            |
+| HMS Duncan     | Yes         | Unknown  | Moored        | Portsmouth        |
+| HMS Dauntless  | Yes         | Yes      | Stopped       | Portsmouth        |
+
 
 ##### Frigates:
 
-| Ship Name           | Seaworthy   | Manned   | State       |  Where            |
-| ------------------- | ----------- |--------- |------------ |------------------ |
-| HMS Iron Duke       | Unknown     | No       | Moored      | Portsmouth        |
-| HMS Kent            | Yes         | Yes      | Underway    | Baltic Sea        |
-| HMS Lancaster       | Yes         | Yes      | Underway    | Plymouth          |
-| HMS Montrose        | Unknown     | Unknown  | Unknown     | ????              |
-| HMS Northumberland  | Yes         | Yes      | Underway    | Baltic Sea        |
-| HMS Portland        | Unknown     | Unknown  | Moored      | Plymouth          |
-| HMS Richmond        | Yes         | Yes      | Underway    | Baltic Sea        |
-| HMS Somerset        | Yes         | Yes      | Underway    | Norway Fjords     |
-| HMS St Albans       | Unknown     | Unknown  | Unknown     | ?????             |
-| HMS Westminster     | Yes         | Yes      | Underway    | Baltic Sea        |
+| Ship Name           | Seaworthy   | Manned   | State         |  Where            |
+| ------------------- | ----------- |--------- |-------------- |------------------ |
+| HMS Iron Duke       | Unknown     | No       | Moored        | Portsmouth        |
+| HMS Kent            | Yes         | Yes      | Underway      | Baltic Sea        |
+| HMS Lancaster       | Yes         | Yes      | Underway      | Plymouth          |
+| HMS Montrose        | Unknown     | Unknown  | Unknown       | ????              |
+| HMS Northumberland  | Yes         | Yes      | Underway      | Baltic Sea        |
+| HMS Portland        | Unknown     | Unknown  | Moored        | Plymouth          |
+| HMS Richmond        | Yes         | Yes      | Underway      | Baltic Sea        |
+| HMS Somerset        | Yes         | Yes      | Underway      | Norway Fjords     |
+| HMS St Albans       | Unknown     | Unknown  | Unknown       | ?????             |
+| HMS Westminster     | Yes         | Yes      | Underway      | Baltic Sea        |
+
 
 ##### Submarines:
 
@@ -74,7 +76,7 @@ There are likely more than this. But surface vessels are the main concern for th
 
 With the information from the AIS tracking there are apparently up to 33 active Royal Navy vessels. 
 
-However, of these vessels there are only 10 frigates, 7 destroyers and 2 aircraft carriers. Of these vessels, It appears around 2 or 4 frigates (dep on how you look at the missing ones) not really operational, the two aircraft carriers, 1 seems operational the other with tugs helping, is more uncertain. Of the destroyers though 3 of them are moored at Portsmouth - these might be in repair, or simply going through the normal maintenance cycle. 
+However, of these vessels there are only 10 frigates, 7 destroyers and 2 aircraft carriers. Of these vessels, It appears around 2 or 4 frigates (dep on how you look at the missing ones) not really operational, the two aircraft carriers it seems 1 is operational the other with tugs helping. Of the destroyers though 3 of them are moored at Portsmouth - these might be in repair, or simply going through the normal maintenance cycle. 
 
 What is astonishing though, if you look at overall "naval power" often mentioned in news articles stating the UK Navy has 70 vessels in total with supposedly 63 vessels in service. Note these include the auxilliary vessels, which then skews the numbers a little since 13 vessels are in the RFA. 
 
@@ -97,6 +99,7 @@ Any wonder the US is condering exiting NATO?
 Sadly the UK government has been shown, time and time again by report after report that they needed to rectify their spending and increase production of vessels. It just hasnt happened. The gov, is not interested in developing its defense - clearly. And with Russia and China taking advantage of this sign of weakness, things will only get worse. 
 
 [IFS - UK Defence spending composition, commitments and challenges - 2025](https://ifs.org.uk/publications/uk-defence-spending-composition-commitments-and-challenges)
+
 
 #### Australia Naval problems
 
