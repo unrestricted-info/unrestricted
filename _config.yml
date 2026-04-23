@@ -14,7 +14,7 @@ authors:
   sal:
     name: PR
     display_name: pr
-    avatar: /assets/images/avatar.png
+    avatar: 'assets/images/avatar.png'
     email: blah@gmail.com
     web: https://blog.unrestricted.info
     twitter: 
