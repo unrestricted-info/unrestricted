@@ -12,7 +12,7 @@ permalink: /:title/
 # Authors
 authors:
   sal:
-    name: PR
+    name: trevor
     display_name: pr
     avatar: 'assets/images/avatar.png'
     email: blah@gmail.com
