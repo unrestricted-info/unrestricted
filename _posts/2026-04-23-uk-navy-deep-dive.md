@@ -19,10 +19,6 @@ I spent some time looking into the current status of the UK Navy, and it seems i
 
 [YT - Britian has 0 Ships to Defend itself](https://www.youtube.com/shorts/DYkbhf_qxrM)
 
-[Source - UK Navy](https://www.royalnavy.mod.uk/organisation/surface-fleet)
-
-[Cruising Earth - Ship movement](https://www.cruisingearth.com/ship-tracker/royal-navy/)
-
 Heres a table of the active ships in the UK Navy and their status (as best can be determined). 
 
 ##### Aircraft Carriers:
@@ -61,7 +57,12 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 | HMS St Albans       | Unknown     | Unknown    | Unknown       | ?????             |
 | HMS Westminster     | Yes         | Yes        | Underway      | Baltic Sea        |
   
-  
+
+[Source - UK Navy](https://www.royalnavy.mod.uk/organisation/surface-fleet)
+
+[Cruising Earth - Ship movement](https://www.cruisingearth.com/ship-tracker/royal-navy/)
+
+
 ##### Submarines:
 
 The positions and states of these are much harder to really determine. So lets assume the following:
