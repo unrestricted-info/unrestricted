@@ -35,31 +35,31 @@ Heres a table of the active ships in the UK Navy and their status (as best can b
 
 ##### Destroyers:
 
-| Ship Name      | Seaworthy   | Manned   | State         |  Where            |
-| -------------- | ----------- |--------- |-------------- |------------------ |
-| HMS Daring     | Yes         | Yes      | Moored        | Muara Town        |
-| HMS Dauntless  | Yes         | Yes      | Stopped       | Portsmouth        |
-| HMS Defender   | Yes         | Yes      | Underway      | Clyde Sea         |
-| HMS Diamond    | Yes         | Yes      | Underway      | Baltic Sea        |
-| HMS Dragon     | Yes?        | Yes      | Underway      | Cyprus            |
-| HMS Duncan     | Yes         | Unknown  | Moored        | Portsmouth        |
-| HMS Dauntless  | Yes         | Yes      | Stopped       | Portsmouth        |
+| Ship Name      | Seaworthy   | Manned     | State         |  Where            |
+| -------------- | ----------- |----------- |-------------- |------------------ |
+| HMS Daring     | Yes         | Yes        | Moored        | Muara Town        |
+| HMS Dauntless  | Yes         | Yes        | Stopped       | Portsmouth        |
+| HMS Defender   | Yes         | Yes        | Underway      | Clyde Sea         |
+| HMS Diamond    | Yes         | Yes        | Underway      | Baltic Sea        |
+| HMS Dragon     | Yes?        | Yes        | Underway      | Cyprus            |
+| HMS Duncan     | Yes         | Unknown    | Moored        | Portsmouth        |
+| HMS Dauntless  | Yes         | Yes        | Stopped       | Portsmouth        |
 
 
 ##### Frigates:
 
-| Ship Name           | Seaworthy   | Manned   | State         |  Where            |
-| ------------------- | ----------- |--------- |-------------- |------------------ |
-| HMS Iron Duke       | Unknown     | No       | Moored        | Portsmouth        |
-| HMS Kent            | Yes         | Yes      | Underway      | Baltic Sea        |
-| HMS Lancaster       | Yes         | Yes      | Underway      | Plymouth          |
-| HMS Montrose        | Unknown     | Unknown  | Unknown       | ????              |
-| HMS Northumberland  | Yes         | Yes      | Underway      | Baltic Sea        |
-| HMS Portland        | Unknown     | Unknown  | Moored        | Plymouth          |
-| HMS Richmond        | Yes         | Yes      | Underway      | Baltic Sea        |
-| HMS Somerset        | Yes         | Yes      | Underway      | Norway Fjords     |
-| HMS St Albans       | Unknown     | Unknown  | Unknown       | ?????             |
-| HMS Westminster     | Yes         | Yes      | Underway      | Baltic Sea        |
+| Ship Name           | Seaworthy   | Manned     | State         |  Where            |
+| ------------------- | ----------- |----------- |-------------- |------------------ |
+| HMS Iron Duke       | Unknown     | No         | Moored        | Portsmouth        |
+| HMS Kent            | Yes         | Yes        | Underway      | Baltic Sea        |
+| HMS Lancaster       | Yes         | Yes        | Underway      | Plymouth          |
+| HMS Montrose        | Unknown     | Unknown    | Unknown       | ????              |
+| HMS Northumberland  | Yes         | Yes        | Underway      | Baltic Sea        |
+| HMS Portland        | Unknown     | Unknown    | Moored        | Plymouth          |
+| HMS Richmond        | Yes         | Yes        | Underway      | Baltic Sea        |
+| HMS Somerset        | Yes         | Yes        | Underway      | Norway Fjords     |
+| HMS St Albans       | Unknown     | Unknown    | Unknown       | ?????             |
+| HMS Westminster     | Yes         | Yes        | Underway      | Baltic Sea        |
 
 
 ##### Submarines:
