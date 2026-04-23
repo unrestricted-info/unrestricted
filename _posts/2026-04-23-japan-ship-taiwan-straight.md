@@ -20,7 +20,7 @@ The Chinese reacted as usual with claims of interference from the Japanese:
 
 [South China Morning Post - China gets angry and upset as usual](https://www.scmp.com/news/china/diplomacy/article/3350646/japans-treaty-day-taiwan-strait-warship-transit-new-flashpoint-china)
 
-China claims the transit "Harms the feelings of the Chinese people". I wonder if the Chinese people consider the feelings of how the Philippines, Vietnam, Malaysia and Taiwan feel when China sents its ships _and_ air force into exclusive economic zones - not even international waters?
+China claims the transit "Harms the feelings of the Chinese people". I wonder if the Chinese people consider the feelings of how the Philippines, Vietnam, Malaysia and Taiwan feel when China sends its ships _and_ air force into other nations territorial waters and aggressively so?
 
 #### China attacking Philippines
 
@@ -32,7 +32,7 @@ The Philipines even won a UN legal case against the Chinese incursions into thei
 
 [ABC Aus - Philipines celebrate victory in South China Sea case](https://www.abc.net.au/news/2016-07-13/philippines-celebrates-victory-in-south-china-sea-case/7623440)
 
-Isnt it interesting, that 10 years later the world still accepts Chinas aggressive movements in the south china sea? And most people dont know how agressive this has been:
+Isnt it interesting, that 10 years later the world still accepts Chinas aggressive movements in the South China Sea? And most people dont know how agressive this has been:
 
 [ABC News AU - Philipines accuses China of damaging Vessels](https://www.abc.net.au/news/2024-05-01/philippines-accuses-china-of-damaging-vessels-at-sea/103788562)
 
@@ -42,7 +42,7 @@ And now, this week, China has now decided to blockade Scarborough Shoal - an are
 
 [Marine Insight - China Deploys Barrier and Patrol Vessels](https://www.abc.net.au/news/2016-07-13/philippines-celebrates-victory-in-south-china-sea-case/7623440)
 
-While other things are happening in the world, China often does this to try and hide their dark movements.
+While other events are happening in the world, China often does this, to try and hide their dark movements.
 
 #### Vietnam has Chinese incursions
 
@@ -90,7 +90,7 @@ China pressuring Singapore about supporting the Philipines:
 
 [South China Morning Post - Chinese defence advisor turns up heat...](https://www.scmp.com/news/china/diplomacy-defence/article/2024158/chinese-defence-adviser-turns-heat-singapore-over-south)
 
-China calls Vietnam a "claimant" of the South China Seas islands the Prcel and Spratly Islands:
+China calls Vietnam a "claimant" of the South China Seas islands the Parcel and Spratly Islands:
 
 [South China Morning Post - Vietnam accuses Beijing...](https://www.scmp.com/news/china/diplomacy/article/3080756/vietnam-accuses-beijing-seriously-violating-sovereignty-south)
 
@@ -104,15 +104,16 @@ China adamantly claims the seas of Malaysia as if it is historical fact:
 
 [South China Morning Post - China's claims in the South China Sea](https://www.scmp.com/news/china/society/article/2141323/chinas-claims-south-china-sea-proposed-continuous-boundary-first)
 
-Isnt it funny, an old map determines the "rights" for a naiton now? Does that mean Italy can claim all of the mediterrean including Egypt, Turkey, Greece, Spain, and France because the Roman empire had maps for it? Insane. Utterly insane.
+Isnt it funny, an old map determines the "rights" for a nation now? Does that mean Italy can claim all of the mediterrean including Egypt, Turkey, Greece, Spain, and France because the Roman empire had maps for it? Insane. Utterly insane.
 
-And all the while... China is increasing its intimidation, bullying and propaganda campaigns against all its neighbors. Why do we let this happen? This is Russias and North Korea's tactics and we should be up in arms helping out South East Asian countries to stand on their own right without being bullied by a totalitarian dictatorship. 
+And all the while... China is increasing its intimidation, bullying and propaganda campaigns against all its neighbors. Why do we let this happen? This is Russia's and North Korea's tactics and we should be resolutely helping out South East Asian countries to stand on their own right without being bullied by a totalitarian dictatorship state. 
 
 [USNI News - Shina Upping bullying tactics against neighbors](https://news.usni.org/2023/07/03/china-upping-bullying-tactics-against-neighbors-says-top-state-department-diplomat)
 
 #### Security and Taiwan Strait discussion
 
 For a deep breakdown in the whole Taiwan strait and Japanese increase in cooperation in the South China seas:
+
 [China Observer - Massive Showdown in Taiwan Strait](https://www.youtube.com/watch?v=cPVqIIS48xA)
 
 "For evil to succeed, all it takes is for good men to do nothing."
