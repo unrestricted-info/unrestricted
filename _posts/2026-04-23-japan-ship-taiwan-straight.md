@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Japan traverse Taiwan Straight, slowly..."
+title:  "Japanese ship traverses Taiwan Strait, slowly..."
 author: trevor
 categories: [ TW, CN, navy ]
 tags: [red, yellow]
