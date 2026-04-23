@@ -4,7 +4,7 @@ title:  "UK Navy. What a mess."
 author: trevor
 categories: [ UK, navy ]
 tags: [red, yellow]
-image: assets/images/2026-04-23_19-uk-navy.png
+image: assets/images/2026-04/2026-04-23_19-uk-navy.png
 description: "The UK Navy is in much more trouble than you can imagine."
 featured: true
 ---
