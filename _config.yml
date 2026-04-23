@@ -13,7 +13,7 @@ permalink: /:title/
 authors:
   trevor:
     name: trevor
-    display_name: pr
+    display_name: trev
     avatar: 'assets/images/avatar.png'
     email: blah@gmail.com
     web: https://blog.unrestricted.info
