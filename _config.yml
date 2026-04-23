@@ -11,7 +11,7 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  trevor:
     name: trevor
     display_name: pr
     avatar: 'assets/images/avatar.png'
