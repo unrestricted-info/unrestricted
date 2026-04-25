@@ -79,6 +79,8 @@ This has resulted in a lop-sided Australian economic structure. Now remember, th
 
 [Jobs and skills Aus - Occupation and Industry Profiles](https://www.jobsandskills.gov.au/data/occupation-and-industry-profiles)
 
+---
+
 |---------------------------------------------------|--------------------|----------------|
 | Industry                                       | Workforce Share    | Median Age     |
 |---------------------------------------------------|:--------------------:|:----------------:|
@@ -101,6 +103,8 @@ This has resulted in a lop-sided Australian economic structure. Now remember, th
 | Health Care and Social Assistance	| 16.3 | 40 |
 | Arts and Recreation Services | 1.8 | 35 |
 | Other Services | 3.9 | 38 |
+
+--- 
 
 Another table with a number of surprises. 
 - Mining, while being the main productive force (money maker for companies) is one of the smallest exployed sectors.
