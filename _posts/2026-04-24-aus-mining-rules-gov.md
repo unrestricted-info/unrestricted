@@ -4,7 +4,7 @@ title:  "Australian mining rules the Government."
 author: trevor
 categories: [ CN, Qatar, mining ]
 tags: [red, yellow]
-image: assets/images/2026-04/2026-04-23_14-21-trawan-straight.png
+image: assets/images/2026-04/mining.jpg
 description: "Australia, over the last 30+yrs has sunken to a mining state ruled and run by mining corps that are mostly controlled by China."
 featured: true
 ---
