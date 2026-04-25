@@ -28,17 +28,17 @@ From the table on page 48:
 | Construction                | 9 % |
 | Wholesale trade             | 9 % |
 | Retail trade                | 9 % |
-| Accommodation, cafes, and   | 3 % |
-| restaurants 2.8 3 0.1       |   |
+| Accommodation, cafes, and   |  |
+| restaurants                 | 3 % |
 | Transport and storage       | 9 % |
 | Communications              | 5 % |
 | Finance and insurance       | 11 % |
-| Cultural and recreational   | 3 % |
-| services                    |   |
+| Cultural and recreational   |  |
+| services                    | 3 % |
 
 Note: MFP - Multifactor Productivity (slightly more complex measurement than GDP)
 
-Take a careful look at these sectors and look how spread they are, and how small mining is, and how large manufacturing is. This is a good and healthy looking economy, looking at this information alone and it was making Australia a wealthy and more importantly a growing regional power in the world.
+Take a careful look at these sectors and look how spread they are, and how small mining is, and how large manufacturing is. This is a good and healthy looking economy, looking at this information alone, it was clear this was making Australia a wealthy and, more importantly, a growing regional power in the world.
 
 Australian gov reporting has changed over time to only look at yearly growth rates of MFP which is, I think, intentional so that it is harder to generate the above table. However the data, is available.
 
@@ -47,7 +47,7 @@ Australian gov reporting has changed over time to only look at yearly growth rat
 With a little bit of maths, I have a table that is representative of the source data and shows the current MFP output % share. And this is why this isnt shown any more:
 
 | Industry sector                         | Share (%) |
-|----------------------------------------|----------:|
+|--------------------------------------------|:----------:|
 | Agriculture                            | 3–4 %     |
 | Mining                                 | 12–14 %   |
 | Manufacturing                          | 5–7 %     |
@@ -79,9 +79,9 @@ This has resulted in a lop-sided Australian economic structure. Now remember, th
 
 [Jobs and skills Aus - Occupation and Industry Profiles](https://www.jobsandskills.gov.au/data/occupation-and-industry-profiles)
 
-|------------------------------------------------|--------------------|----------------|
+|---------------------------------------------------|--------------------|----------------|
 | Industry                                       | Workforce Share    | Median Age     |
-|------------------------------------------------|--------------------|----------------|
+|---------------------------------------------------|:--------------------:|:----------------:|
 | Agriculture, Forestry and Fishing |	2.0 |	51 |
 | Mining	| 2.1 |	42 |
 | Manufacturing	 | 5.9	| 43 |
