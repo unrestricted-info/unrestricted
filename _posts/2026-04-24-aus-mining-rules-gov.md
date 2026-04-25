@@ -188,5 +188,5 @@ Australia introduced a digitial verififaction bill in late 2025:
 
 [eSafety Commissioner - Social media age restriction](https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions)
 
-Even though this supposedly targets under 16 yrs old. What does this encompass? Everyone. Because to determine if someone is under 16 yrs old you need information to confirm that. Which mean _all_ adults utilizing these sites are under the same conventions, and more importantly this is a first step in verifying and tracking all users of thes large common platforms. Think about it - is it really aimed at under 16 yr olds? or.. is it everyone.
+Even though this supposedly targets under 16 yrs old. What does this encompass? Everyone. Because to determine if someone is under 16 yrs old you need information to confirm that. Which means _all_ adults utilizing these sites are under the same conventions, and more importantly this is a first step in verifying and tracking all users of thes large common platforms. Think about it - is it really aimed at under 16 yr olds? or.. is it everyone.
 
