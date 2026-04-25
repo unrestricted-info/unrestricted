@@ -172,6 +172,16 @@ And who can forget, Syndey harbor hosting Chinese warships? Or maybe you dont kn
 
 This was only in 2019, which begs the question - "What the hell!?"
 
+And on the other hand you see the political narrative of how wonderful our relations with China are and how they are great partners:
+
+[The Guardian - Xi says Australia and China should 'unswervingly' work together](https://www.theguardian.com/australia-news/2025/jul/15/australian-journalists-confronted-china-security-guards-albanese-beijing-trip)
+
+What was notable about the above meeting, is that Albanese had not engaged with Donald Trump at all. And through political optics, this gives the impression to _all_ that the Chinese gov relationship is far more important than a very long standing Australian ally and partner in the USA. This is a stark contrast, compared to only a year before. 
+
+[The Diplomat - Despite the Diplomatic thaw, Australians still deeply mistrust China](https://thediplomat.com/2024/06/despite-the-diplomatic-thaw-australians-still-deeply-mistrust-china/)
+
+I think Australian citizens still hold this view, and their distrust is being manifested in distruct in their own government as well. Which I beleive is a valid view to hold considering all the evidence of influence, and control that China is applying to Australia. 
+
 Australia is moving more and more towards a socialist state, with some of the same tools the Chinese use to suppress their own peoples freedoms. I will detail this process in future articles. But here are some thoughts to poner upon.
 
 Australia introduced a digitial verififaction bill in late 2025:
