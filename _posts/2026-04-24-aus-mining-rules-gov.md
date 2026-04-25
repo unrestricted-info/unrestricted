@@ -162,7 +162,7 @@ At almost any time you want you can look here, and see this constant stream of s
 
 The importance of all this, is that when you have this much money flowing in/out of Australia, it becomes leverage. In Australian politics, society, economics and even how we percieve clearly hostile nations like China. You will see on one hand, Australia explaining how China has been a constant threat - like recent circumnavigation of Australia by Chinese warships, clearly being provocative.
 
-[the interpreter - The Chinese warships Australians never got to debate](https://www.lowyinstitute.org/the-interpreter/chinese-warships-australians-never-got-debate)
+[The Interpreter - The Chinese warships Australians never got to debate](https://www.lowyinstitute.org/the-interpreter/chinese-warships-australians-never-got-debate)
 
 [The Strategist - Pushed around by China, Australia is not a serious middle power](https://www.aspistrategist.org.au/pushed-around-by-china-australia-is-not-a-serious-middle-power/)
 
