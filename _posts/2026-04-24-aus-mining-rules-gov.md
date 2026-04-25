@@ -138,9 +138,9 @@ How the Coal sector in Australia looks:
 
 The above is quite a deep look at how mining executives can become sentors in Australia - Chinese nationals too. It surprised me that this has been allowed to happen over the last 30 yrs. And more suprising how little people know about this sort of thing.
 
-Australia is also supplying China with minerals to help them build weapons which will inevitably end up being pointed at Australia, like the did with their lasers already.
+Australia is also supplying China with minerals to help them build weapons which will inevitably end up being pointed at Australia, like they did with their lasers already.
 
-[The guardian - Serious saftety incident: Chinese ship shines laster at Aus aircraft](https://www.theguardian.com/australia-news/2022/feb/19/serious-safety-incident-australian-defence-force-says-chinese-ship-shone-laser-at-raaf-aircraft)
+[The guardian - Serious saftety incident: Chinese ship shines laser at Aus aircraft](https://www.theguardian.com/australia-news/2022/feb/19/serious-safety-incident-australian-defence-force-says-chinese-ship-shone-laser-at-raaf-aircraft)
 
 [ABC News Aus - Australia supplying China with critical mineral vital for hypersonic missiles](https://www.abc.net.au/news/2025-11-03/china-critical-mineral-nuclear-program-australia-supplying/105951072)
 
@@ -180,9 +180,9 @@ What was notable about the above meeting, is that Albanese had not engaged with 
 
 [The Diplomat - Despite the Diplomatic thaw, Australians still deeply mistrust China](https://thediplomat.com/2024/06/despite-the-diplomatic-thaw-australians-still-deeply-mistrust-china/)
 
-I think Australian citizens still hold this view, and their distrust is being manifested in distruct in their own government as well. Which I beleive is a valid view to hold considering all the evidence of influence, and control that China is applying to Australia. 
+I think Australian citizens still hold this view, and their distrust is being manifested in distrust in their own government as well. Which I beleive is a valid view to hold considering all the evidence of influence, and control that China is applying to Australia. 
 
-Australia is moving more and more towards a socialist state, with some of the same tools the Chinese use to suppress their own peoples freedoms. I will detail this process in future articles. But here are some thoughts to poner upon.
+Australia is moving more and more towards a socialist state, with some of the same tools the Chinese use to suppress their own peoples freedoms. I will detail this process in future articles. But here are some thoughts to ponder upon.
 
 Australia introduced a digitial verififaction bill in late 2025:
 
