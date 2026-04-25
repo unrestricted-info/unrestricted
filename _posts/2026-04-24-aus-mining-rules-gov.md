@@ -152,7 +152,7 @@ In the last 10 yrs, there has been a clear toning down of the narrative of Chine
 
 [CKGSB Kownledge - Mining Giants: How China - Australia Mineral Pertnerships Scale the Technology Ladder](https://english.ckgsb.edu.cn/knowledge/article/australia-china-mining-ties-sustainability-innovation/)
 
-And there are many like this from the Australian government and mining marketing groups. The fact remains though, nearly all our mining exported head to China, South Korea and Japan. And this is clear from this one picture:
+And there are many like this from the Australian government and mining marketing groups. The fact remains though, nearly all our mining exports head to China, South Korea and Japan. And this is clear from this one picture:
 
 ![AIS Ships tracking to/from Australia](/assets/images/2026-04/2026-04-25_12-36-aus-ais-shipping.png)
 
