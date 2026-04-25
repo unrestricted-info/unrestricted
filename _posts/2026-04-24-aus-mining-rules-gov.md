@@ -150,7 +150,7 @@ In the last 10 yrs, there has been a clear toning down of the narrative of Chine
 
 And there are many like this from the Australian government and mining marketing groups. The fact remains though, nearly all our mining exported head to China, South Korea and Japan. And this is clear from this one picture:
 
-![AIS Ships tracking to/from Australia](files:///assets/images/2026-04/2026-04-25_12-36-aus-ais-shipping.png)
+![AIS Ships tracking to/from Australia](/assets/images/2026-04/2026-04-25_12-36-aus-ais-shipping.png)
 
 At almost any time you want you can look here, and see this constant stream of ships. It has been like this for a long time. Heres the AIS tracking link to watch these ships yourself:
 
