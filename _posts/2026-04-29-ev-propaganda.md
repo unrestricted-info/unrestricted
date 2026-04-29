@@ -4,7 +4,7 @@ title:  "EV propaganda makes no sense..."
 author: trevor
 categories: [ EV, CN, Tech ]
 tags: [red, yellow]
-image: assets/images/2026-04/2026-04-23_14-21-trawan-straight.png
+image: assets/images/2026-04/ev-title.avif
 description: "The push for adoption for EVs is still ongoing, and makes less and less logical sense."
 featured: true
 ---
