@@ -80,7 +80,7 @@ What is new, is to use AI LLMs as the controllers for those script operations. O
 
 It is easy to see, how a Doctors office can become improved greatly in terms of efficiency using such tools. And importantly, this isnt about replacing the jobs of the office workers, this is giving them more free time to do the more human related work that is needed and thus removing some of their work burdens to become more effective in the workplace - sounds great, right?
 
-Yes, is sounds great. But this is not what happens. You see, all of this assumes the OpenClaw doesnt make a mistake or make decisions without the authority of the Doctors or Managers involved and completely destroy the database:
+Yes, it sounds great. But this is not what happens. You see, all of this assumes the OpenClaw doesnt make a mistake or make decisions without the authority of the Doctors or Managers involved and completely destroy the database:
 
 [Medium - My AI Agent Ordered 500 Pizzas, Deleted a Database, and Emailed my Boss "I Quit"](https://medium.com/@management_33652/my-ai-agent-ordered-500-pizzas-deleted-a-database-and-emailed-my-boss-i-quit-9dad8352adea)
 
