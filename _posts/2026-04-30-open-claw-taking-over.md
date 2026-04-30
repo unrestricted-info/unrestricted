@@ -27,7 +27,7 @@ If you are interested in trying out OpenClaw you can find it here:
 
 Word of warning. I would recommend the following for first time users:
 - Create separate emails and accounts if you intend to use OpenClaw with emails and services. DO NOT use your personal accounts.
-- Run OpenClaw in a VM and DO NO let it have access to your local files and files system.
+- Run OpenClaw in a VM and DO NOT let it have access to your local files and files system.
 - Run OpenClaw using a small amount of test services first. It can become hard to manage if there are many.
 
 When developing solutions with OpenClaw DO NOT expect accuracy. This is still an AI based model system that has at-best 70-80% accuracy with any data sets. Use it for the appropriately matching use cases.
@@ -56,7 +56,7 @@ In healthcare OpenClaw is already in-use:
 
 [healthcaredigital - How Will OpenClaw Impact Healthcare Technology in 2026?](https://www.healthcare.digital/single-post/how-will-openclaw-impact-healthcare-technology-in-2026)
 
-A 68 yr old brewed a beer.. using OpenClaw:
+A 68 yr old brewed a beer... using OpenClaw:
 
 [lobsterlager](https://www.lobsterlager.com/)
 
@@ -144,7 +144,7 @@ AI agents are no longer controlled by these companies. And more importantly, the
 
 The funding for nearly all of Google and NVidia comes from enterprise services. And these services will no longer be needed by businesses. They run their own OpenClaw agent and get everything they need without the NVidia agent or service.
 
-An example: Lets consider an OpenClaw agent called Fred that has been setup as a search tool on the internet. Fred has been given specific website search systems to do their searches in, collate and rank the results and provide feedback on what it finds. This is what Google Search currently does, with advertising to make money. Fred, is installed on a mac minim with a local llama model and some other plugins. Fred is _much_ more accurate because Fred's owner is very particular about what search services they use and so has fart greater success with his searches as well as his results.
+An example: Lets consider an OpenClaw agent called Fred that has been setup as a search tool on the internet. Fred has been given specific website search systems to do their searches in, collate and rank the results and provide feedback on what it finds. This is what Google Search currently does, with advertising to make money. Fred, is installed on a mac minim with a local llama model and some other plugins. Fred is _much_ more accurate because Fred's owner is very particular about what search services they use and has far greater success with his searches as well as his results.
 
 This is a simple example. But right away, it is clear, this is a _huge_ loss for Google revenue (advertising). Fred doesnt need it. Consider this problem on scale, as UI systems for OpenClaw improve and end up "common" for the average user - this will be the case in a few months time. 
 
