@@ -57,7 +57,7 @@ Ive manually extracted the data for the above countries and it is:
 | South Korea | 130.7K | 1.39M | 9% |
 
 Some notes about these numbers:
-- They include hybrids (will explain later)
+- They include hybrids - PHEVs and HEVS which are the largest portion of EVs (will explain later)
 - These are _yearly_ sales for these countries so this is _not_ indicative of cumulative vehicles.
 - The numbers in some countries are likely heavily skewed (will explain later).
 
@@ -73,7 +73,7 @@ The United States is selling 9.8% EV's in their market. This means, 90.2% is com
 
 South Korea, which is a big EV and HEV maker, also only has 9% of EV sales in 2024. Again, this means that 91% of the cars going onto South Korean roads are combustion cars, not EV's. 
 
-The media tries to 'spin' this in terms of growth YOY (Year On Year) but even that has now flatten all over the world - the main reason for this: is cost. 
+The media tries to 'spin' this in terms of growth YOY (Year On Year) but even that has now flattened all over the world - the main reason for this: is cost. 
 
 #### Propaganda and Investment
 
@@ -220,3 +220,75 @@ And this year:
 [THOT CURSUS - Tesla was betting on electric, but a companies wa preparing a new petroleum-free fuel](https://cursus.edu/en/35226/tesla-was-betting-on-electric-but-a-company-was-preparing-a-new-petroleum-free-fuel)
 
 It is these sorts of alternatives that are likely to end the mad world that is the EV. I personally dont think they will disappear entirely, since there are good use cases for electric based transport, but like Segway... did it change transport forever? No. No it didnt.
+
+##### EVs are NOT PHEVs or HEVs
+
+The way much of the marketing of EVs is done is the use of "if it has a battery in it its an EV". Then by that same notion, ICE cars are HEV because they all have a battery for the electrical system and they are recharged by an alternator?
+
+The reason the EV market uses HEVs and PHEVs is because their numbers in market sales are far higher than BEVs (Battery Electric Vehicles).
+
+[Australian Automobile Assocoiation - Electric Vehicle Sales break records](https://www.aaa.asn.au/2025/11/electric-vehicle-sales-break-records/)
+
+The table for breakdown of EV sales is shown below:
+
+![National Quarterly New Light Vehicle Sales](/assets/images/2026-04/2026-04-30_11-14-sales-of-vehicle-types.png)
+
+Take note of the makeup of EVs. In nearly every quarter of sales BEV's only make up around 30% of total EV sales. Which means the numbers I showed in the initial tables are extremely misleading. Even in China this is a bigger instance, of those 11 million "EVs" sold less than half are BEVs and the majority are small EVs that are commercial use! The statistics the Chinese EV makers are using to boost their supposed boom is all fake. 
+
+![Total car sales in China per segment and powertrain 2024](/assets/images/2026-04/2026-04-30_11-25-ev-sales-in-china-by-type.png)
+
+Source: 
+
+[IEA - Global EV outlook 2025](https://www.iea.org/reports/global-ev-outlook-2025/trends-in-the-electric-car-industry-3)
+
+Added to these problems is the fact that in Europe HEVs and PHEVs are the large portion of EVs sold, and people are NOT using the electric charge capability - thus they are a tiny combustion engine carting around 1 tonne of battery that isnt used. This isnt only energy waste, its production waste, proof of lack of interest in EV uptake and the sign of how transport is becoming more polluting and less efficient with EV systems.
+
+[ACEA - New Car Registrations](https://www.acea.auto/pc-registrations/new-car-registrations-1-8-in-2025-battery-electric-17-4-market-share/)
+
+![New EU Car Registrations by power Source](/assets/images/2026-04/2026-04-30_11-32-new-eu-car-registrations-by-power-source.png)
+
+The need for exposing this madness is important. Because the overall cost and destruction that EVs are creating in our car manufacturing pipeline are devastating - on a whole different level to ICE cars.
+
+##### Mining and Resources
+
+One of the biggest impacts EVs have had is on the mining industry for resources to create batteries. 
+
+A wonderful diagram is shown here explaining the makeup of an EV battery (HEV and PHEV too).
+
+[visualcapitalist - The Key Minerals in an EV Battery](https://elements.visualcapitalist.com/the-key-minerals-in-an-ev-battery/)
+
+![The Key Minerals in an EV Battery](/assets/images/2026-04/2026-04-30_11-37-key-minerals-in-an-ev-battery.png)
+
+The main problem with these minerals is that many of them have extremely destructive mining practices and thus are often only done by third world countries. 
+
+For example, did you know a large portion of the lithium China gets is from Myannmar which is mined in horrific conditions. And its also why Myannmars political stability is broken because China is funding the rebel groups _and_ the government so they can keep the lithium cheap to buy.
+
+[DW - The dirty secrets behind Myanmars rare-earths boom](https://www.dw.com/en/the-dirty-secrets-behind-myanmars-rare-earths-boom/a-72530460)
+
+[Discovery alert - Myanmars critical role in Chinas Rare Earth Dominance](https://discoveryalert.com.au/myanmar-crucial-china-rare-earth-dominance-2025/)
+
+Lithium alone is one of the most destructive mining and refining processes as well as being very toxic. However we also know Cobalt, Nickel and Manganese are very destructive as well (to humans and the planet).
+
+[earth.org - The Environment Impacts of Cobalt Mining in Congo](https://earth.org/cobalt-mining-in-congo/)
+
+[science direct - Ecotocicologiocal consequences of manganese mining pollutants and their biological remediation](https://www.sciencedirect.com/science/article/pii/S2590182623000012)
+
+[Natial Library of Medicince - THe Toxic Legacy of Nickel Production and Its Impact on Environmental Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC11675565/)
+
+When people say Im buying an EV to help save the planet - ask them which planet that is? Because its not saving planet Earth.
+
+#### Summary
+
+Beware the investment hypes, the propaganda and the boom bubbles being formed around what appears to be extremely illogical industries - both from a profit perspective and a long term viability perspective. 
+
+I always remind everyone of Segway - I remember the news adds for it. 
+
+[Youtube - Original Commercial Segwat Promotional Video](https://www.youtube.com/watch?v=7rNw5nI_3iE)
+
+[The Guardian - This is Ginger, and its the future](https://www.theguardian.com/world/2001/dec/04/engineering.highereducation)
+
+Be warned. These companies want your investment money to pump stock, so they can make hefty bonuses then leave and let the company fall. This has been a rinse and repeat process for the last 20+ years in so many markets. 
+
+This year 2026, is when investors will finally realize theyve been duped and they will eject themselves from EV investment. Even HEVs and PHEVs are not long term economically viable propisitions.
+
+I have much more information about the detail of EV development, company and government collusion and more. I will leave that for another article.
