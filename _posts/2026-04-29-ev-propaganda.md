@@ -217,9 +217,9 @@ More recently a discussion on e-fuel:
 
 And this year:
 
-[THOT CURSUS - Tesla was betting on electric, but a companies wa preparing a new petroleum-free fuel](https://cursus.edu/en/35226/tesla-was-betting-on-electric-but-a-company-was-preparing-a-new-petroleum-free-fuel)
+[THOT CURSUS - Tesla was betting on electric, but a company was preparing a new petroleum-free fuel](https://cursus.edu/en/35226/tesla-was-betting-on-electric-but-a-company-was-preparing-a-new-petroleum-free-fuel)
 
-It is these sorts of alternatives that are likely to end the mad world that is the EV. I personally dont think they will disappear entirely, since there are good use cases for electric based transport, but like Segway... did it change transport forever? No. No it didnt.
+It is these sorts of alternatives that are likely to end the mad world that is the EV. I personally dont think they will disappear entirely, since there are good use cases for electric based transport.
 
 ##### EVs are NOT PHEVs or HEVs
 
@@ -233,7 +233,7 @@ The table for breakdown of EV sales is shown below:
 
 ![National Quarterly New Light Vehicle Sales](/assets/images/2026-04/2026-04-30_11-14-sales-of-vehicle-types.png)
 
-Take note of the makeup of EVs. In nearly every quarter of sales BEV's only make up around 30% of total EV sales. Which means the numbers I showed in the initial tables are extremely misleading. Even in China this is a bigger instance, of those 11 million "EVs" sold less than half are BEVs and the majority are small EVs that are commercial use! The statistics the Chinese EV makers are using to boost their supposed boom is all fake. 
+Take note of the makeup of EVs. In nearly every quarter of sales BEV's only make up around 30% of total EV sales. Which means the numbers I showed in the initial tables are extremely misleading. Even in China this is a bigger instance, of those 11 million "EVs" sold less than half are BEVs and the majority are small EVs that are commercial use! The statistics the Chinese EV makers are using to boost their supposed boom is extremely dubious. 
 
 ![Total car sales in China per segment and powertrain 2024](/assets/images/2026-04/2026-04-30_11-25-ev-sales-in-china-by-type.png)
 
