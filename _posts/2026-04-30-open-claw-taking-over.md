@@ -4,7 +4,7 @@ title:  "Open Claw is taking over..."
 author: trevor
 categories: [ AI, Tech, OpenClaw ]
 tags: [red, yellow]
-image: assets/images/2026-04/2026-04-23_14-21-trawan-straight.png
+image: assets/images/2026-04/open-claw.png
 description: "Open Claw is now dominating the AI race. And its a very different kind of race."
 featured: true
 ---
