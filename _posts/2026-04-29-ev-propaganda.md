@@ -86,7 +86,7 @@ These industries traditionally have not had a "core product" to help expand thei
 
 What was created was an EV bubble market. Where Investors spent big on EV companies for the future - and still are, but they are now becoming wary. 
 
-With this investment comes marketing. And you have seen it all before - Governments, Companies, even countries all telling you the consumer that EV's will change your life and change the world for the better.
+With this investment comes marketing. And you have seen it all before - Governments, Companies, even countries all telling you, the consumer, that EV's will change your life and change the world for the better.
 
 [Aus Gov - The National Vehicle Strategy](https://www.dcceew.gov.au/energy/transport/national-electric-vehicle-strategy)
 
@@ -100,7 +100,7 @@ But have you seen this:
 
 [Bloomberg - Chinas Abandoned Obsolete Electric Cars](https://www.bloomberg.com/features/2023-china-ev-graveyards/)
 
-This was in 2023.. and its much worse now. Bloomberg claims they are abandoned obselete EVs - but they were not. You see, the Chinese government paid every EV maker a subsidy for every car they make, and they woudl mark it sold then store it in some unused lot, then claim the loss as well. This happened previously with the E scooters:
+This was in 2023.. and its much worse now. Bloomberg claims they are abandoned obselete EVs - but they were not. You see, the Chinese government paid every EV maker a subsidy for every car they make, and they would mark it sold then store it in some unused lot, then claim the loss as well. This happened previously with the E bikes:
 
 [The Atlantic - Bike Share Oversupply](https://www.theatlantic.com/photo/2018/03/bike-share-oversupply-in-china-huge-piles-of-abandoned-and-broken-bicycles/556268/)
 
@@ -122,10 +122,10 @@ However.. this plan. Has failed hard.
 
 #### 2026 - The year the EV died.
 
-It has becoming increasingly clear that the EV makers in China have been running on borrowed time (and money). You see the problem is many fold. Here are some of the key areas that seem to be little discussed:
+It has becoming increasingly clear that the EV makers in China have been running on borrowed time (and money). You see the problem is manyfold. Here are some of the key areas that seem to be little discussed:
 - EV costs are the battery. Everything else is tiny in comparison.
 - All chinese EV makers have battery subsidies for each car up to 25K per car - this is why they are often sold (event with transport) at much cheaper rates than locally made EVs in Europe and the US. 
-- All the subsidies are starting to be halted. This began in 2023 and results in numerous large EV makers collapsing in China.
+- All the subsidies are starting to be halted. This began in 2023 and resulted in numerous large EV makers collapsing in China.
 - Chinas economy is in a steep dive, and cannot continue this level of governmental cost any longer.
 - Chinese "old" 2016 EV's are now not very useful and as a result causing problems. 
 
@@ -163,7 +163,7 @@ While all of the above focusses on the Chinese market, there are changes happeni
 
 And there are many, many more makers that have effectively stopped taking their companies into the EV abyss. 
 
-At some point, companies need to come to a realization that the market growth just isnt there. And its in the numbers themselves. 
+At some point, companies need to come to a realization that the market growth just isnt there. And if they follow the Chinese fake model the end result is a disasterous sell-off when the Ponzi scheme collapses.
 
 The whole investment world bet on EVs. Like they are betting on AI. And the amount of commitment to a technology that has some serious flaws is akin to Segway. 
 
@@ -276,6 +276,48 @@ Lithium alone is one of the most destructive mining and refining processes as we
 [Natial Library of Medicince - THe Toxic Legacy of Nickel Production and Its Impact on Environmental Health](https://pmc.ncbi.nlm.nih.gov/articles/PMC11675565/)
 
 When people say Im buying an EV to help save the planet - ask them which planet that is? Because its not saving planet Earth.
+
+##### ICE Cars are NOT the problem
+
+We have been lead to believe that ICE (Internal Combustion Cars) are causing a large amount of greenhouse gas emissions and changing them over will "save the planet". This type of propaganda is a complete lie.
+
+On average transport is around 30% the source of carbon emissions.
+
+[ourworldindata - Breakdown of Carbon Dioxide](https://ourworldindata.org/emissions-by-sector)
+
+What this doesnt tell you, is that commercial vehicle transport is the main contributor to this value and _not_ the retail car market. 
+
+[ourworldindata - Cars, Planes, trains: Where do CO2 emissions from transport come from](https://ourworldindata.org/co2-emissions-from-transport)
+
+This graph in particular shows my point:
+
+![Global CO2 emissions in transport by mode](/assets/images/2026-04/2026-04-30_12-19-global-co2-emissions-in-transport-by-mode.png)
+
+Note: The authors split up all the commercial sections to make passenger car use look bigger. But in fact, all those other sectors are commercial use. This is well over half of all emissions. 
+
+Consider that for a moment. This is 30% of CO2 output, with passenger cars around half of that - 15% and yet industry, production, commercial transport make up almost 60% of all emisions? 
+
+Now consider, that the EV "trend" is resulting in around a 10-20% use of EVs across the world (its less than that but Im being optimistic) which means the actual impact this is having on CO2 emissions is less than 3%. While China builds more coal fired power plants every year, than this amount!
+
+[ENR - China Doubles Down on Coal-Fired Power](https://www.enr.com/articles/60469-china-doubles-down-on-coal-fired-power-with-record-plant-capacity-planned)
+
+[Statista - Chinas New Coal Power Installations Reach 18 Year High](https://www.statista.com/chart/36007/power-capacity-of-new-decommissioned-coal-power-plants-china/)
+
+There is no sense in these EV mandates when the targets for the largest CO2 producers are _not_ passenger car vehicles.
+
+[Climate Tracker - China](https://climateactiontracker.org/countries/china/)
+
+The evidence is damning and yet we point the fingers and blame the wrong people. This is madness. 
+
+##### Long term energy cost
+
+People are feeling this today. In South Australia where I reside, we pay around $600 AUD a month for our electricity alone. This has only been increasing with the more and more "green energy" systems that have been added to our grid. We are now seeing energy economic pressures impact everyday citizens. 
+
+Considering this "energy inflation" is likely to continue, the EVs also lose one of their key benefits in the cost to "fuel" them. As infrastructure costs increase due to the increase in EVs this will only exacerbate the problem.
+
+![Comparison of cost and emissions savings](/assets/images/2026-04/2026-04-30_12-46-comparison-of-cost-and-emissions-savings.png)
+
+It is becoming clear that Energy suppliers also want to profit from this newly created EV industry. And as usual all citizens bear the costs, rather than the small minority that actually have EVs.
 
 #### Summary
 
