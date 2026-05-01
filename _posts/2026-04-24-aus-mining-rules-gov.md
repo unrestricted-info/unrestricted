@@ -122,7 +122,7 @@ Recent publicity of Australia lacking the governmental control to appropriately 
 
 [Australia Institute - Government revenue from LNG exports: Australia vs Qatar](https://australiainstitute.org.au/wp-content/uploads/2026/01/P1816-Government-revenue-from-LNG-Qatar-vs-Aus-Web.pdf)
 
-"Australia and Qatar are two of the world’s largest exporters of liquefied natural gas, each exporting around 80 million tonnes in 2023, worth $85 billion. From these exports the Qatari Government received $A56 billion, while Australian governments received just $11 billion"
+__"Australia and Qatar are two of the world’s largest exporters of liquefied natural gas, each exporting around 80 million tonnes in 2023, worth $85 billion. From these exports the Qatari Government received $A56 billion, while Australian governments received just $11 billion"__
 
 Hard to believe that Australia earns 5x less revenue than Qatar. This is why the mining lobby groups in Australia are so powerful and why changes to this, are very unlikely without serious political upheaval.
 
