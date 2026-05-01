@@ -86,7 +86,7 @@ Yes, it sounds great. But this is not what happens. You see, all of this assumes
 
 While this is an annecdotal example, the actions are real. And the security and cost implications are real. 
 
-What would the cost to a Health Clinic if they suddenly lost _all_ of their records and OpenClaw ordered all of the wrong drug scripts? This is a serious problem that people, tech people specifically, are not taking seriously. Companies and Tech fanatics of OpenClaw are implementing these systems right now.
+What would be the cost to a Health Clinic if they suddenly lost _all_ of their records and OpenClaw ordered all of the wrong drug scripts? This is a problem that people, tech people specifically, are not taking seriously. Companies and Tech fanatics of OpenClaw are implementing these systems right now.
 
 The question isnt _if_ OpenClaw does these things, it is _when_ they do these things. You see, in all Nerual Network based systems there is only a maximum level of accuracy any NN can get to, even with the best possible training and data - and this is around 78%. 
 
@@ -100,9 +100,9 @@ When we train a NN these numbers are adjusted slightly to better represent the r
 
 However, these numbers in the tensors are often "weighted" which means they are adjusted as they are trained. This allows the same tensors to be used for various types of matches and sentences. These tensors are often built to make "tokens" and so you will see LLMs and models in general have a "tokens per second" as a performance metric. This is what that measures, how many matches of tensors a model can do per second on a specific set of hardware.
 
-Ok. But what if it doesnt match? Well, this is where it gets interesting. Nearly all NN based systems use a level of "random noise" on the tensors to ensure that there is a certain level of "matching" that can occur. The main problem with doing this is you will then get matches that make no sense (often referred to hallucinations). These matches are expected because if you do not have this feature, the model will match nothing because the request will always need to be exact.
+Ok. But what if it doesnt match? Well, this is where it gets interesting. Nearly all NN based systems use a level of "random noise" on the tensors to ensure that there is a certain level of "matching" that can occur. The main problem with doing this is you will then get matches that make no sense (often referred to as hallucinations). These matches are expected because if you do not have this feature, the model will match nothing because the request will always need to be exact.
 
-Thus the noise that needs to be added, must be added or it wont work. This noise can be reduced the more training data is used, or referential systems are ran together with NNs or input is restricted so that specific matching becomes more direct. However, the larger the dataset and the complexity the NN is trying to solve the larger the noise needs to be. This is why that 30% innaccuracy will never disappear and you will never see 100% accurate LLMs or NN based models. 
+Thus the noise that needs to be added, must be added or it wont work. This noise can be reduced the more training data is used, or referential systems are ran together with NNs or input is restricted so that specific matching becomes more direct. However, the larger the dataset and the larger the complexity the NN is trying to solve, the larger the noise needs to be. This is why that 30% innaccuracy will never disappear and you will never see 100% accurate LLMs or NN based models. 
 
 [Youtube - AI and Stochastic Parrots](https://www.youtube.com/watch?v=jAHRbFetqII)
 
@@ -110,9 +110,13 @@ AI (in its current form) is flawed at the mathematical level not at the implemen
 
 This is a discussion on how the underlying systems of LMMs work and how most of the models in use today work within their core. There are input and output systems that massage queries and output data in case of removing bad results, or bad inputs so there are instances where it can "seem" that models have much more accuracy that they actually do.
 
+Additionally, many models today work in conjunction with databases for referential lookups that might override or accentuate the results a LLM produces.
+
 ##### Impacts for OpenClaw
 
-One of the great problems of current AI NN based systems is that it is entering a "data degradation" phase. Where many of the large model makers (like NVidia and Google and Facebook) have literally run out of consumable training data for the models to be trained "better". 
+One of the great problems of current AI NN based systems is that it is entering a "data degradation" phase. Where many of the large model makers (like NVidia and Google and Facebook) have run out of consumable training data for the models to be trained "better". 
+
+[Yahoo! Finance - AI has run out of training data, warns data chief](https://uk.finance.yahoo.com/news/ai-run-training-data-warns-161903051.html)
 
 Because of this, most of these companies are now creating data from other models. Now, remember that 30% problem? If you start feeding back in something that has a 30% failure rate into a system that has a 30% failure rate, this will create a never ending cycle of data degradation - you cant get better, only worse.
 
@@ -126,9 +130,17 @@ OpenClaw running automated agent sessions for millions of people and companies a
 
 ##### Investments so large the World Economy is at risk
 
+[Our World In Data - Artificial Intelligence](https://ourworldindata.org/artificial-intelligence)
+
 The AI investments at this current time are at such a large level with such long lead times (years to build large AI training centers and AI data centers) they are at extreme risk. Coupled with tech companies having to partner or buy huge energy systems because these centers consume so much energy there is a serious issue in how economically the world has put all its eggs in the AI basket, and OpenClaw is going to make _all_ of that business redundant.
 
-Why redundant? Watch the NVidia video - Huang is scared. NVidia knows its multi-billion dollar investments are all at risk now. This video is not for you the user, it is purely for the investors to say - "Hey, look we are buds with OpenClaw.. we have better tools.. people will use us!"... no they wont. Free vs Paid, Expensive Cloud services vs Local machines in office? We know what people will choose. NVidia is out of the picture and they know it.
+Why redundant? Watch the NVidia video - Huang is scared. NVidia knows its multi-billion dollar investments are all at risk now. This video is not for you the user, it is purely for the investors to say - "Hey, look we hav OpenClaw but ours is better! We have better tools. People will use us!" - no they wont. Free vs Paid, Expensive Cloud services vs Local machines in office? We know what people will choose. NVidia is out of the picture and they know it.
+
+[Yahoo! Finance - NVidia Invests Billions to Strengthen AI Ecosystem](https://finance.yahoo.com/sectors/technology/articles/nvidia-invests-billions-strengthen-ai-123940562.html)
+
+NVidia is _valued_ at 5 Trillion dollars. This _is_ a giant bubble. It does _not_ have 5 Trillion dollars worth of assets, or investment, or future profits. This is a hugely over-valued company and they know it.
+
+But Google, Apple, Meta, X/Twitter have all plunged billions of dollars into the AI "race". And only a few will survive this - and they will be OpenClaw based.
 
 Heres an example of someone doing a deep dive into installing and using OpenClaw. Its a good and personal experience which explains the impact this will have:
 
@@ -138,9 +150,11 @@ RedHat and others are getting involved as well:
 
 [techcrunch.com - Redhats OpenClaw maintainer just made enterprise Claw deployments a lot safer](https://techcrunch.com/2026/04/28/red-hats-openclaw-maintainer-just-made-enterprise-claw-deployments-a-lot-safer/)
 
-I'll explain why NVidia and Google and other companies are at risk.
+__Why are NVidia and Google and other companies are at risk?__
 
 AI agents are no longer controlled by these companies. And more importantly, their models are no longer needed in the cloud - they can all be run locally and at whatever scale the local business or person wants.
+
+[Business Insider - Its the Mac Minis moment, thanks to the OpenClaw craze](https://www.businessinsider.com/apple-mac-mini-having-a-moment-openclaw-craze-2026-2)
 
 The funding for nearly all of Google and NVidia comes from enterprise services. And these services will no longer be needed by businesses. They run their own OpenClaw agent and get everything they need without the NVidia agent or service.
 
@@ -162,4 +176,56 @@ Most businesses are looking to leverage this giant wave of uptake of OpenClaw. T
 
 If a business engages in developing OpenClaw based systems it needs to spend time on security and knowledge and skills for managing the agent and its IO systems. Logging, notifications, and limits are all requirements - not suggestions.
 
+In some ways, NVidia may be able to gain some share in the market by providing a "secure" system for OpenClaw - but if you look on github, there are already dozens of versions with better security for OpenClaw to run it. The question NVidia needs to ask themselves: Can I swing consumer and business use to me, or should I consider a different business approach?
 
+My answer to NVidia - you need a new approach, so does Google, so does Meta and all the large AI tech groups. 
+
+#### 70 percent is enough
+
+With my explanation above about the limitations of NNs and their accuracy, will not stop the growth of OpenClaw tools and systems. The reason is, many use cases dont _need_ accuracy. 
+
+Emails do not need to be highly accurate in their descriptions, as long as the meaning is conveyed. Code does not need to be accurate, as long as the output can be tailored to be what the developer needs. Search tools do not need to be accurate as long as they provide all the results and let the user decide.
+
+You see, you can get around accuracy by providing a "human in the loop" capability. And with OpenClaw many people are utilizing notifications, logging, and reporting to feedback to the user before continuing its execution - this is important. And this is why, 70% is enough to make this work. For a large majority of admin type tasking it does not _need_ to be accurate.
+
+The big caveat is not to let OpenClaw loose in accounting and finance or in metrics and referential assessment. Using OpenClaw in these types of systems has already shown disasterous results:
+
+[AI Cathedral - My lobster lost $450,000 this weekend](https://pashpashpash.substack.com/p/my-lobster-lost-450000-this-weekend)
+
+When given access to realworld finance and import resources like ordering accounts and medical information there are very dangerous outcomes that can be extremely impactful. The above example, while less business and more research oriented, is a clear warning of that potential disasters waiting in the future. 
+
+The reality is, these disasters _will_ happen because of one common human trait. 
+
+#### OpenClaw proves Human Laziness
+
+The reality is. OpenClaw is only a relection of how lazy humans _want_ to be. And the ramifications for humanity are startling when you begin to consider how it translates. 
+
+When you hear OpenClaw proponents or AI fans talk about the potential job losses and impact to working people, the idea of those impacts are often dismissed as "work will be created at a higher level" and in _some_ cases this could be true - like in the aforementioned Health Clinic example. 
+
+What the tech people dont tell you is that while doing this society as a whole will be deskilled, and deeducated in the process - this has never happened in human history before (with maybe the exception of the Dark Ages). 
+
+##### Deskilling
+
+OpenClaw doesnt just act like an admin, it can do potentially everything a while-collar professional can actually do. Humans, being the most like to take the easiest route, will leverage this as much as they can - the end result is humans will deskill themselves and not learn how things work and just let the "Clawdbot" deal with it. 
+
+The rate at this will occur, is rapid. I have seen this over the last decade with Google. People do not bother remembering or learning logical systems, ideas or methods anymore, they reach for Google and then move on. Even over this 10 year period, all of the people I once considered intelligent have gone this route - and I no longer consider them so. The speed at which OpenClaw will advance this is more striking.
+
+OpenClaw isnt just for searching, its for everything. People who work with Word documents or spreadsheets will no-longer need to learn how to use them, or even use them at all - "Fred please analyze our current business status and put it in a spreadsheet for me". You have just begun to lose your skills in using applications and tools. 
+
+The impact will be on every single application that can be automated - and they all ca be.
+
+##### Deeducated
+
+With the loss of skills comes the loss of education. No longer will teachers or students _need_ to actually learn anything, since the measure of success is exams or interviews - OpenClaw can do both! 
+
+[clawskills.sh - ai-interview-simulator-candaigo](https://clawskills.sh/skills/hangeaiagent-ai-interview-simulator-candaigo)
+
+Teachers and students will enter a OpenClaw war zone where students will utilize it as much as possible to complete as much of the training without attendance or effort, and Teachers will use it to minimize their effort in marking, assessing and managing student performances. In both ways the core element of education is removed. 
+
+Teachers are no longer teaching and students are no longer learning - so what is the value of the certificate at the end? Zero. 
+
+Again, this represents a rapid decline in education that then has flowon effects to skills, law, and society as a whole. Is this an alarmist type stance? I hope so, because the lack of current discussion about these impacts is more worrisome than an AI stock crash - these changes are society destroying, worse than humanity has ever seen.
+
+Once we head down this track (which I think really started 10+yrs ago) there is no getting off. Once education and law is broken there is no return. Humanity shouldnt be scared or fearful of AI or ClawBot, they should be utterly fearful of their own laziness and inability to understand how damaging that will be for the world as a whole.
+
+If you thought Idiocracy was a comedy set in the future, no. Its now. 
