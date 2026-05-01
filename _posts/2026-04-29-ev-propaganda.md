@@ -20,9 +20,9 @@ Lets start by looking at the numbers.
 
 Looking at the table, lets look at the top 10 sales for 2024 per country:
 
-|----------------------|--------------------|
-| Country  | Total EV Sales |
-|----------------------|--------------------|
+|---------------------------|------------------------|
+| Country                   | Total EV Sales         |
+|---------------------------|------------------------|
 | China	| 11.3M	|
 | United States	| 1.5M	|
 | Germany |	570.4K |
@@ -42,9 +42,9 @@ This is not a commonly easy set of data to find (as I will discuss later).
 
 Ive manually extracted the data for the above countries and it is:
 
-|----------------------|--------------------|---------------|---------|
-| Country  | Total EV Sales | Total Car Sales | %EV |
-|----------------------|--------------------|---------------|---------|
+|----------------------|--------------------|-------------------|------------|
+| Country              | Total EV Sales     | Total Car Sales   | %EV        |
+|----------------------|--------------------|-------------------|------------|
 | China	| 11.3M	| 23.54 | 48% |
 | United States	| 1.5M	| 15.2M | 9.8% |
 | Germany |	570.4K | 3.0M | 19% |
