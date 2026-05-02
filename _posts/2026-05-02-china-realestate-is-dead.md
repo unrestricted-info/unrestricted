@@ -54,6 +54,8 @@ While there are other studies that support these conclusions, this is clearly a 
 
 The largest single problem with Chinas economic position is that none of the economic data is independantly evaluated or investigated. All data is carefully curated by the CCP itself - being a totalitarian regime with a dictator running it (since he removed the required maximum terms a leader can run). 
 
+![Investment in China](/assets/images/2026-05/2026-05-02_12-19-investment-in-china.png)
+
 When the data is faked and untrustworthy then all of the outcomes that are propagandized by the Chinese government and media outlets they pay to promote their narrative cannot be relied upon at all.
 
 The numbers dont lie. 
