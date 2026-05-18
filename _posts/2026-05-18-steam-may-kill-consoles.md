@@ -59,6 +59,8 @@ Proton is a fork of the Wine project which allows Linux users to run Windows app
 
 This project has been quietly moving forward as an Open Source project (Wine) for 32 yrs now. And it has quite extensive features, even running older software often better and more compatible than modern Win11 runs old windows apps!
 
+![Steam Deck](/assets/images/29026-05/2026-05-18_16-46-steam-deck.png)
+
 The Proton fork Valve has been sponsoring is here:
 
 [Github - ValveSoftware Proton](https://github.com/valvesoftware/proton)
