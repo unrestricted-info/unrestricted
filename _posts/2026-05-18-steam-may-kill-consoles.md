@@ -86,7 +86,9 @@ Some numbers to boggle the mind:
 - Annual Revenue of $10.8 billion USD
 
 [Steamspy Top Charts](https://steamspy.com/)
+
 [SteamSpy Game release numbers](https://steamspy.com/year/)
+
 [Steam Statistics](https://www.demandsage.com/steam-statistics/)
 
 This is a _growing_ market in a world where finding growing markets is _hard_. Here it is. Right here.
