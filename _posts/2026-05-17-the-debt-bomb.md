@@ -62,6 +62,8 @@ The world bank generated a study back in 2024 where they estimated the hidden de
 
 And this is a conservative finding in my opinion. There are other reports, that explain up to 5x more debt - criminal, black market and coercive groups controlling countries finances. 
 
+[Investing.com - Government spending lifts global debt to a record $348 trillion](https://www.investing.com/news/economy-news/government-spending-lifts-global-debt-to-a-record-348-trillion-in-2025-says-iif-4524935)
+
 This is the bomb. The scale of resources we have spent in the last 50 yrs has been unsustainable. Because the people _left_ to pay the debt will be shrinking, not growing (thats right, the world population growth is slowing).
 
 [The Conversation - Global population growth is now slowing rapidly](https://theconversation.com/global-population-growth-is-now-slowing-rapidly-will-a-falling-population-be-better-for-the-environment-235781)
