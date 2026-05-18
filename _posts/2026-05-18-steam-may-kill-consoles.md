@@ -69,7 +69,15 @@ And the important thing is this is both open source, and partnered with Valves e
 
 Proton is a more "tweaked" version of Wine specifically for handling games. The focus is on graphics, audio, input and movie playback and performance. With that in mind, this creates a fascintating process. One which developers, gamers, and Valve can cooperate on building the best version for their hardware.
 
-Thus. Valve have built community developers support, gamer support and a "layer" of hardware abstraction that is bolted directly into SteamOS. 
+Thus. Valve have built community developers support, gamers support and a "layer" of hardware abstraction that is bolted directly into SteamOS. 
+
+Proton is _really_ important - because this actually allows other hardware to run this as well. PC gamers can (and have) already made their own Steam Machines:
+
+[T3 - I built my own Steam Machine](https://www.t3.com/tech/gaming-consoles/geekom-a7-max-review-making-your-own-steam-machine)
+
+This benefits Steam because more users will use the Steam ecosystem, but it also means alternative Steam Machine manufacturers will be able to get in on the act and make various levels of high performance Steam Machine. 
+
+It is very similar to how the Steam Deck has done well. It has regular hardware sales, but the big interesting numbers are how many people are installing SteamOS on _other_ handheld platforms. 
 
 ### Steam will be king
 
