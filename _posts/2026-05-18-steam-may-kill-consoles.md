@@ -85,7 +85,7 @@ There is nothing like Steam from a game development and gamer perspective that b
 
 Steam already is now a one-stop shop for games. "Is it on Steam yet" is no longer a phrase used by gamers. Games are relased day-0 on Steam (or close to) otherwise you can miss out on massive marketing and captured market attention. 
 
-A popular release on Steam can quickly game _millions_ of players in a matter of days. There is no other platform that can do this with such a wide variety of games being released.
+A popular release on Steam can quickly gain _millions_ of players in a matter of days. There is no other platform that can do this with such a wide variety of games being released.
 
 Some numbers to boggle the mind:
 - Steam releases around 1000-1500 games _per_ month. 
@@ -111,7 +111,11 @@ The end result of this, if you look at the numbers, as an investor, the indie ma
 
 Steam, with the developers, the quality titles and the marketing from the Steam store itself is already king in the PC gaming world - there are no competitors for them here. The Microsoft store briefly was, now its not. 
 
-If you land that whole ecosystem onto a good performing, reasonably priced (around $1000) console, then I dont think it will matter what Sony, Nintendo or Microsoft do from hereon in. They are toast. All the numbers and Im pretty sure all the Steam gamers will say so. 
+Steam isnt just a store though. Its power in both genre marketing, community marketing, ewarly access and wishlisting are concrete ways that an entire marketing campaign can be applied on Steam alone! The huge user audience of 96 million people checking the store daily is a captured gaming audience with no comparison. Marketing alone on Steam has been one of the greatest benefits for Indie developers in the last decade. And this is set to become substantially bigger.
+
+[![Steam](/assets/images/2026-05/2026-05-18_17-07-steam-logo.png)](https://store.steampowered.com/)
+
+If you land the whole Steam ecosystem onto a good performing, reasonably priced (around $1000) console, then I dont think it will matter what Sony, Nintendo or Microsoft do from hereon in. They are toast. The tidal wave of benefits to developers, gamers, companies are all large positives. The only question is if Valve stuggle with supply - which in some cases in the past (PS5) that might not be a bad thing. 
 
 The days of Sony, Nintendo and Microsoft consoles are coming to an end. I dont think they will disappear, since there are fan markets of those systems that will probably manage to keep these companies profitable enough for a little while. But without the unique and big indie titles hitting Sony or MS consoles exclusively.. there just is no competition.
 
