@@ -40,6 +40,8 @@ The end net result of this, is the world has over 110 Trillion USD in debt (esti
 
 [Visual Capitalist](https://www.visualcapitalist.com/111-trillion-of-global-debt-in-2025/)
 
+![Visual Capitalist - The world of debt](/assets/images/2026-05/World_of_Debt_2025.webp)
+
 The big kicker here is that China _underreports_ all of its debt so that it keeps getting investors buying into China. This has lead to massive hidden debts run by LGFVs (Local Government Financing Vehicles) - these are basically massive loans coming by interim banks from the goverment and private sector. They are essentially what we in the west call "Loan Sharks", but this isnt the main problem. The main issue is the _scale_ of the hidden debts - it is essentially doubles Chinas debt profolio. 
 
 [The Nation - Chinas Local Government Debt hits a new record](https://www.nationthailand.com/news/asean/40059197)
