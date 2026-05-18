@@ -4,7 +4,7 @@ title:  "Steam Machine may kill consoles."
 author: trevor
 categories: [ gaming, steam ]
 tags: [red, yellow]
-image: assets/images/2026-04/2026-04-23_14-21-trawan-straight.png
+image: assets/images/2026-05/2026-05-17_23-37-steam-machine-may-kill-consoles.png
 description: "The Steam console is set to launch soon and it may change console gaming forver."
 featured: true
 ---
@@ -33,7 +33,7 @@ The reasons for the lack of interest and support were many fold:
 
 It was the wrong machine, with the wrong titles at the wrong time.
 
-[VG237 - Proof of ddeath: Valve removes the Steam Machines section from Steam](https://www.vg247.com/steam-machine-removed-from-steam-by-valve)
+[VG237 - Proof of death: Valve removes the Steam Machines section from Steam](https://www.vg247.com/steam-machine-removed-from-steam-by-valve)
 
 However... this time... its different. Very different.
 
@@ -101,14 +101,14 @@ Steam, with the developers, the quality titles and the marketing from the Steam 
 
 If you land that whole ecosystem onto a good performing, reasonably priced (around $1000) console, then I dont think it will matter what Sony, Nintendo or Microsoft do from hereon in. They are toast. All the numbers and Im pretty sure all the Steam gamers will say so. 
 
-The days of Sony, Nintendo and Microsoft consoles are coming to an end. I dont think they will disappear, since theres are fan markets of those systems that will probably managed to keep these companies profitable enough for a little while. But without the unique and big indie titles hitting Sony or MS consoles eclusively.. there just is no competition.
+The days of Sony, Nintendo and Microsoft consoles are coming to an end. I dont think they will disappear, since there are fan markets of those systems that will probably manage to keep these companies profitable enough for a little while. But without the unique and big indie titles hitting Sony or MS consoles exclusively.. there just is no competition.
 
 ### The great change...
 
-This is what the gaming industry needs anyway. Yes. It does. For too long Sony, MS and Nintendo have re-hashed old IP over and over again with less and less effect. Especially when it comes to taking old titles and "enhancing them" for newer consoles - this was a grand scam by itself and it shows the lack of creativity in modern AAA studios anymore.
+This is what the gaming industry needs anyway. Yes. It does. For too long Sony, MS and Nintendo have re-hashed old IP over and over again to less and less effect. Especially when it comes to taking old titles and "enhancing them" for newer consoles - this was a grand scam by itself and it shows the lack of creativity in modern AAA studios anymore.
 
-There are very few "great" AAA gaming studios left. Maybe a couple in Japan, and thats about it. The rest has become Unreal Engine bling junkies and have forgotten how to make "great" games entirely. This is why indie development will continue their growth and dominance of the industry, like they deserve finally... 
+There are very few "great" AAA gaming studios left. Maybe a couple in Japan, and thats about it. The rest have become Unreal Engine bling junkies and have forgotten how to make "great" games entirely. This is why indie development will continue their growth and dominance of the industry, like they deserve finally... 
 
-The new Steam Machine is a fullstop in console gaming. If Sony or Nintendo want to survive they are going to need to come up with something radically new, very quickly or they are going to have to make Steam compatible consoles - I think this is very likely, but it then destroys their own profit making business. 
+The new Steam Machine is a fullstop in console gaming. If Sony, MS or Nintendo want to survive they are going to need to come up with something radically new, very quickly or they are going to have to make Steam compatible consoles - I think this is very likely, but it then destroys their own profit making business. 
 
 This is all my opinion though. Anything can .. and often does.. happen. However it would surprise me if the Steam Machine didnt change the console industry forever. The time is right, the price looks to be right, the hardware is right and the games are right... hard to fail at this point.
