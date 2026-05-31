@@ -38,19 +38,12 @@ From the letter:
 
 > "To assist the Committee’s oversight of this matter, we request the following documents and information, covering the time period January 1, 2015, to the present, as soon as possible but
 no later than June 27, 2025
-> 6 Vincent, supra n. 2.
-> 7 Id.
-> 8 Shane Croucher, Elias Rodriguez 'Not a Member' Says Socialist Party Linked to DC Suspect, NEWSWEEK (May 22,
-2025).
+
 > 9 NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES
 THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 13, 2024).
-> 10 Hvistendahl, et al., supra n. 1.
-> 11 Id.
-> 12 Id.
-> 13 Id.
-> 14 Id.
+
 > 15 NETWORK CONTAGION RSCH. INST. Rep., supra n. 9 at 8-9, 15 (May 13, 2024); and Kaminsky, supra n. 1.
-> 16 Hvistendahl, et al., supra n. 1.
+
 > 17 Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
 and Western Societies, THE JAMESTOWN FOUNDATION: GLOB. RSCH. & ANALYSIS (Apr. 12, 2023).
 
