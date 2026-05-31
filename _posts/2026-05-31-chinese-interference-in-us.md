@@ -54,25 +54,15 @@ THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 1
 > 17 Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
 and Western Societies, THE JAMESTOWN FOUNDATION: GLOB. RSCH. & ANALYSIS (Apr. 12, 2023).
 
-
-"NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 13, 2024). 10 Hvistendahl, et al., supra n. 1."
-
-Even the existence of such a book is disturbing. And...
-
-"Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
-and Western Societies, THE JAMESTOWN FOUNDATION: GLOB. RSCH. & ANALYSIS (Apr. 12, 2023)."
-
 This was all done in 2025. And there is no clear evidence anything happened from it. 
-
-The unnamed books are all redacted. Its concerning this isnt all public information. 
 
 I found some of this Network Contagion document in a report here:
 
-[NCRI Contahious Disrutpion: How CCP Infuence and Radical Ideologies Threaten Critical In frastructure and Campuses Across the United States](https://networkcontagion.us/reports/ccp-influence-and-radical-ideologies/)
+[NCRI Contagious Disrutpion: How CCP Infuence and Radical Ideologies Threaten Critical In frastructure and Campuses Across the United States](https://networkcontagion.us/reports/ccp-influence-and-radical-ideologies/)
 
 Copy here (in case this disappears):
 
-[NCRI Contahious Disrutpion: How CCP Infuence and Radical Ideologies Threaten Critical In frastructure and Campuses Across the United States](/assets/docs/2026-05/SID4P-Report_May-2024.pdf)
+[NCRI Contagious Disrutpion: How CCP Infuence and Radical Ideologies Threaten Critical In frastructure and Campuses Across the United States](/assets/docs/2026-05/SID4P-Report_May-2024.pdf)
 
 The evidence is in the links and funding of these groups and the groups _stated_ intent.
 
