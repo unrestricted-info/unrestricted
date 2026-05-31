@@ -23,7 +23,7 @@ The subtitle is most disturbing:
 
 "Claims that China and overseas propaganda drive Americans to rise up against data centers are based on scant evidence."
 
-"scant evidence" ? Wow. Just wow. Is the Washington Post getting paid for these articles. Because heres some evidence just with a 2 minute google search:
+"scant evidence" ? It makes you wonder if the Washington Post getting paid for these articles. With my keyboard and Google Search I managed to find... quite alot. How is it, seasoned reporters cannot?
 
 [LA-area mayor acted as an agent for china](https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia)
 
