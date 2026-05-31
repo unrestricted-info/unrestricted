@@ -202,6 +202,22 @@ Here's what the Committee found:
 
 There are alot more of these... 
 
+### Chinese Fentanyl Precursors
+
+China is specifically using drugs to harm US citizens directly. 
+
+[DEA (2020) - Fentanyl Flow to the United States](https://www.dea.gov/sites/default/files/2020-03/DEA_GOV_DIR-008-20%20Fentanyl%20Flow%20in%20the%20United%20States_0.pdf)
+
+This report details the main sources of precursors.
+
+[Select Committee Investigates: The CCP's Role in the Fentanyl Crisis](https://chinaselectcommittee.house.gov/media/reports/select-committee-investigates-ccps-role-fentanyl-crisis)
+
+The volume and death tolls are staggering - in 2023 when this report was done, 200 people a day.. a day.. died from Fentanyl overdose. The report found it was costing the US 1.5 trillion USD a year in 2020! And China produces 97% of _all_ precusors for Fentanyl production. So this effects not just the US.. but all nations suffering this.
+
+Its stunning that people see this in the US and dont have some sort of outright hate for the CCP itself - knowing if they stopped production of this, then their children, friends and others couldnt get access to a deadly poison. Yes, there is a social and cultural issue to resolve too but this is clearly a weapon the CCP is using to _kill_ US citizens - this is a _war_.  
+
+In "Unrestricted Warfare" the Chinese officers describe the use of these sorts of "weapons" as just one of many they intend to use. 
+
 ### Chinese Spies on US Bases
 
 The Chinese have been using citizens as spies as well as CCP spies to access sensitive military bases in the US.
@@ -290,7 +306,7 @@ Again, this is a large and complex operation of repression of Yughurs, Chinese n
 
 ### Insanity. Isnt it?
 
-How can this be? How can all the above be true and people of the world not want to do anything about it or work towards pushing back against this dark tide on unethical and moral depravity?
+How can this be? How can all the above be true and people of the world not want to do anything about it or work towards pushing back against this dark tide of unethical behavior? People talk about the US being warmongering (and in some cases it is), but this is a whole larger and more long term scale with far greater effects.
 
 What will it take for people to say enough is enough. Well, you see, this is the problem. Media. How can you know if you dont get to see it. The CCP applies this daily to its own citizens in its "locked off to the world" internet. The "Great Chinese Firewall" takes care of that. 
 
@@ -302,7 +318,7 @@ But western media should be able to unearth and discover and expose all this? We
 
 Consider Chinas estimated to be spending up to 15 billion USD a year just on international propaganda alone. In contrast the juggernaught that is Netflix spends 2 billion USD a year. Let that sink in a bit. The CCP outspends Netflix 7 to 1 on marketing. 
 
-The western media (not all) are also complicit in this. There is clear evidence too, that some of the larger groups (BBC and others) have "sponsorships" for articles and media from shell companies paid for by the CCP. I'll do a deeper dive on that later (theres alot coming in on this).
+The western media (not all) are also complicit in this. There is clear evidence, that some of the larger groups (BBC and others) have "sponsorships" for articles and media from shell companies paid for by the CCP. I'll do a deeper dive on that later (theres alot coming in on this).
 
 If you want to get this sort of thing out to people - then share it. Tell people, share links, find more and share them. The power of the individual is far greater these days than you are lead to believe. 
 
