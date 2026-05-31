@@ -296,6 +296,8 @@ What will it take for people to say enough is enough. Well, you see, this is the
 
 But western media should be able to unearth and discover and expose all this? Well, yes and some have - which is what you see above. But consider the problem - Imagine if the group that doesnt want all this exposed, pays enough people in media to either promote _other_ media and remove or reduce access to the "problem" media then no-one gets to see it, and then it "hasnt happened". 
 
+[CBS News - China investing "unprecedented resources" in disinformation, surveillance tactics, new report says](https://www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/)
+
 The western media (not all) are complicit in this. There is clear evidence too, that some of the larger groups (BBC and others) have "sponsorships" for articles and media from shell companies paid for by the CCP. I'll do a deeper dive on that later (theres alot coming in on this).
 
 If you want to get this sort of thing out to people - then share it. Tell people, share links, find more and share them. The power of the individual is far greater these days than you are lead to believe. 
