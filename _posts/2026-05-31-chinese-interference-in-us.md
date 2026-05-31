@@ -39,23 +39,32 @@ From the letter:
 no later than June 27, 2025
 
 6 Vincent, supra n. 2.
+
 7 Id.
+
 8 Shane Croucher, Elias Rodriguez 'Not a Member' Says Socialist Party Linked to DC Suspect, NEWSWEEK (May 22,
 2025).
+
 9 NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES
 THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 13, 2024).
+
 10 Hvistendahl, et al., supra n. 1.
+
 11 Id.
+
 12 Id.
+
 13 Id.
+
 14 Id.
+
 15 NETWORK CONTAGION RSCH. INST. Rep., supra n. 9 at 8-9, 15 (May 13, 2024); and Kaminsky, supra n. 1.
+
 16 Hvistendahl, et al., supra n. 1.
+
 17 Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
 and Western Societies, THE JAMESTOWN FOUNDATION: GLOB. RSCH. & ANALYSIS (Apr. 12, 2023).
-Mr. Neville Singham
-June 13, 2025
-Page 3 of 5
+
 
 "NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 13, 2024). 10 Hvistendahl, et al., supra n. 1."
 
@@ -282,3 +291,25 @@ Many people will think this section is absurd. But I assure you there are much d
 [France 24 - China forcibly returned nearly 10,000 in overseas crackdown: report](https://www.france24.com/en/live-news/20220119-china-forcibly-returned-nearly-10-000-in-overseas-crackdown-report)
 
 [Freedom House - China: Transnational Repression Origin Country Case Study](https://freedomhouse.org/report/transnational-repression/china)
+
+[BBC - US citizen convicted of running secret Chinese 'police station' in NYC](https://www.bbc.com/news/articles/cy72yy7z1dyo)
+
+[Canada gov - THE CHINESE COMMUNIST PARTY’S OVERSEAS POLICE SERVICE STATIONS](https://www.ourcommons.ca/Content/Committee/441/CACN/Reports/RP12720365/cacnrp04/cacnrp04-e.pdf)
+
+[ABC.au - Chinas Secret Spy](https://www.abc.net.au/news/2024-05-13/china-spy-secret-police-agent-tells-all-four-corners/103826708)
+
+Again, this is a large and complex operation of repression of Yughurs, Chinese nationals, Taiwan nationals and others. The fact no-one barely knows about this, is disasterous. 
+
+### Insanity. Isnt it?
+
+How can this be? How can all the above be true and people of the world not want to do anything about it or work towards pushing back against this dark tide on unethical and moral depravity?
+
+What will it take for people to say enough is enough. Well, you see, this is the problem. Media. How can you know if you dont get to see it. The CCP applies this daily to its own citizens in its "locked off to the world" internet. The "Great Chinese Firewall" takes care of that. 
+
+But western media should be able to unearth and discover and expose all this? Well, yes and some have - which is what you see above. But consider the problem - Imagine if the group that doesnt want all this exposed, pays enough people in media to either promote _other_ media and remove or reduce access to the "problem" media then no-one gets to see it, and then it "hasnt happened". 
+
+The western media (not all) are complicit in this. There is clear evidence too, that some of the larger groups (BBC and others) have "sponsorships" for articles and media from shell companies paid for by the CCP. I'll do a deeper dive on that later (theres alot coming in on this).
+
+If you want to get this sort of thing out to people - then share it. Tell people, share links, find more and share them. The power of the individual is far greater these days than you are lead to believe. 
+
+My hope, is that, one day, we will see an end to the CCP and the Chinese people will get their freedom, and choice of who leads them and how - for thousands of years since their cultural inception it has been Emperors and Elite Nobles dominating the vast and large poor masses as it is even now with the CCP. One day.. it will be better. We have to believe that.
