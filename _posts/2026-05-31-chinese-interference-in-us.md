@@ -194,7 +194,7 @@ Here's what the Committee found:
 > After local officials who discovered the lab sought help from the CDC and others, the CDC refused to test any of the samples. 
 
 
-[BBC Chinese nationals accused of smuuggling 'dangerous biological pathogen' into US](https://www.bbc.com/news/articles/c4gkdppymk4o)
+[BBC Chinese nationals accused of smuggling 'dangerous biological pathogen' into US](https://www.bbc.com/news/articles/c4gkdppymk4o)
 
 [Chinese National pleads guilty and is Sentenced for Smuggling Dangerous Biological Pathogen](https://www.justice.gov/usao-edmi/pr/chinese-national-pleads-guilty-and-sentenced-smuggling-dangerous-biological-pathogen)
 
@@ -220,7 +220,7 @@ Again, 3 yrs ago.. where are the alarm bells? Not enough evidence?
 
 [CSIS - Chinas Intelligence Footprint in Cuba](https://www.csis.org/analysis/chinas-intelligence-footprint-cuba-new-evidence-and-implications-us-security)
 
-And we cant forget the most obvious one, which still boggle the mind to this day as to why it was allowed into US Air Space?
+And we cant forget the most obvious one, which still boggles the mind to this day as to why it was allowed into US Air Space?
 
 [DOW - F-22 Safely Shoots Down Chinese Spy Balloon Off South Carolina Coast](https://www.war.gov/News/News-Stories/Article/article/3288543/f-22-safely-shoots-down-chinese-spy-balloon-off-south-carolina-coast/)
 
@@ -240,7 +240,7 @@ A good summary and discussion of the US combatting the increase of hacking here:
 
 There is a much longer list here too. And again.. it really surprises me US citizens arent more angry about this - your power, water, fuel and more are all compromised, but there arent any serious ramifications taking place? 
 
-My concern is that the media, is blasting this in a very compacent manner - and people are becoming numb to what _is_ actual warfare.
+My concern is that the media, is limiting this coverage in a very compacent manner - and people are becoming numb to what _is_ actual warfare.
 
 Ok.. how about some more nefarious types of interference?
 
@@ -266,13 +266,13 @@ Remember Chinas one-child policy only ended about 10 yrs ago, and so many famili
 
 [World - Experts warn China uses students to steal U.S. research](https://wng.org/roundups/experts-warn-china-uses-students-to-steal-u-s-research-1753302315)
 
-There are many here.. and all over the world too. Again. How is this not a national security issue that citizens are not strongly outraged by this? Well.. its the media. These articles and news get limited attention and a small amount of investigation by smaller media outlets. The large outlets, kinda dont really touch it, or they "convieniently" put it behind their paywalls - which is interesting when you consier the ramifications this has directly on US citizens. 
+There are many here.. and all over the world too. Again. Why arent citizens becoming enraged about this? Well.. its the media. These articles and news get limited attention and a small amount of investigation by smaller media outlets. The large outlets, dont really touch it, or they "convieniently" put it behind their paywalls - which is interesting when you consier the ramifications this has directly on US citizens. 
 
 ### Transnational Repression
 
-CCP Abducts US citizens and Chinese Police Stations in the US!
+CCP Abducts US citizens and runs Chinese Police Stations in the US!
 
-Many people will think this section is absurd. But I assure you there are much darker things the CCP is doing than this and people _should_ be outraged at all the above anyway. These abductions are just outrageous and they are happening all around the world. 
+Many people will think this section is absurd. But I assure you there are much darker things the CCP is doing than this and people _should_ be outraged at all the above anyway. These abductions are something truly bizarre that its so poorly reported and they are happening all around the world. 
 
 [The Expanding International Reach of China’s Police](https://www.americanprogress.org/article/the-expanding-international-reach-of-chinas-police/)
 
