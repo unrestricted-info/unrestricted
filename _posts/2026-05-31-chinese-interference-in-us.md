@@ -25,44 +25,45 @@ The subtitle is most disturbing:
 
 "scant evidence" ? Wow. Just wow. Is the Washington Post getting paid for these articles. Because heres some evidence just with a 2 minute google search:
 
-[LA-area mayer acted as an agent for china](https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia)
+[LA-area mayor acted as an agent for china](https://www.npr.org/2026/05/14/nx-s1-5819933/china-trump-trip-la-agent-mayor-arcardia)
 
 [Committee on Oversight](https://oversight.house.gov/release/oversight-republicans-investigate-funding-behind-los-angeles-riots-linked-to-chinese-communist-party/)
 
-To quote lawmakers: "“He has created an elaborate dark money network which allows him to send funds to a series of non-profits, such as the ‘United Community Fund’ and ‘Justice Education Fund,’ that have almost no real footprints.” 
+To quote lawmakers: 
+> “He has created an elaborate dark money network which allows him to send funds to a series of non-profits, such as the ‘United Community Fund’ and ‘Justice Education Fund,’ that have almost no real footprints.” 
 
 And in a letter to Singham they asked quite explicitly for documents whose titles should be enough to say WTF!
 
 From the letter:
 
-"To assist the Committee’s oversight of this matter, we request the following documents and information, covering the time period January 1, 2015, to the present, as soon as possible but
+> "To assist the Committee’s oversight of this matter, we request the following documents and information, covering the time period January 1, 2015, to the present, as soon as possible but
 no later than June 27, 2025
 
-6 Vincent, supra n. 2.
+> 6 Vincent, supra n. 2.
 
-7 Id.
+> 7 Id.
 
-8 Shane Croucher, Elias Rodriguez 'Not a Member' Says Socialist Party Linked to DC Suspect, NEWSWEEK (May 22,
+> 8 Shane Croucher, Elias Rodriguez 'Not a Member' Says Socialist Party Linked to DC Suspect, NEWSWEEK (May 22,
 2025).
 
-9 NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES
+> 9 NETWORK CONTAGION RSCH. INST., CONTAGIOUS DISRUPTION: HOW CCP INFLUENCE AND RADICAL IDEOLOGIES
 THREATEN CRITICAL INFRASTRUCTURE AND CAMPUSES ACROSS THE UNITED STATES, 9 (May 13, 2024).
 
-10 Hvistendahl, et al., supra n. 1.
+> 10 Hvistendahl, et al., supra n. 1.
 
-11 Id.
+> 11 Id.
 
-12 Id.
+> 12 Id.
 
-13 Id.
+> 13 Id.
 
-14 Id.
+> 14 Id.
 
-15 NETWORK CONTAGION RSCH. INST. Rep., supra n. 9 at 8-9, 15 (May 13, 2024); and Kaminsky, supra n. 1.
+> 15 NETWORK CONTAGION RSCH. INST. Rep., supra n. 9 at 8-9, 15 (May 13, 2024); and Kaminsky, supra n. 1.
 
-16 Hvistendahl, et al., supra n. 1.
+> 16 Hvistendahl, et al., supra n. 1.
 
-17 Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
+> 17 Martin Purbrick, United Front Work and Beyond: How the Chinese Communist Party Penetrates the United States
 and Western Societies, THE JAMESTOWN FOUNDATION: GLOB. RSCH. & ANALYSIS (Apr. 12, 2023).
 
 
@@ -93,15 +94,15 @@ In the above documents there are numerous examples of quite extremist groups say
 
 *The People's Forum*
 
-"For months we've been the target of a campaign that alleges our funding comes from 'dark money'."
+> "For months we've been the target of a campaign that alleges our funding comes from 'dark money'."
 
-"A few years ago we met Roy Singham, a Marxist comrade who sold his company & donated most of his wealth to non-profits that focus on political education, culture & internationalism". 
+> "A few years ago we met Roy Singham, a Marxist comrade who sold his company & donated most of his wealth to non-profits that focus on political education, culture & internationalism". 
 
-"As reported in November 2023 by the Free Beacon: “The source of the Goldman Sachs Philanthropy Fund’s donations to the People’s Forum is likely Neville Roy Singham… [who] is the single individual responsible for the group’s operations."
+> "As reported in November 2023 by the Free Beacon: “The source of the Goldman Sachs Philanthropy Fund’s donations to the People’s Forum is likely Neville Roy Singham… [who] is the single individual responsible for the group’s operations."
 
-"Between 2017 and 2022, the People’s Forum received over $20 million in grants from the GSPF, with $12 million transferred in 2019 alone. As previous reporting has detailed, GSPF appears to function as a dark money clearinghouse, obscuring the identity of donors while facilitating the transfer of substantial sums to American non-profits."
+> "Between 2017 and 2022, the People’s Forum received over $20 million in grants from the GSPF, with $12 million transferred in 2019 alone. As previous reporting has detailed, GSPF appears to function as a dark money clearinghouse, obscuring the identity of donors while facilitating the transfer of substantial sums to American non-profits."
 
-"In November 2023, a Tax-Exempt Organization Complaint was filed with the IRS against The People’s Forum, alleging that: “De Los Santos and the People’s Forum Inc. have been advocating in support of the U.S. designated foreign terror organization Hamas in its war on Israel and Jews and also advocates for the overthrow of the United States.”
+> "In November 2023, a Tax-Exempt Organization Complaint was filed with the IRS against The People’s Forum, alleging that: “De Los Santos and the People’s Forum Inc. have been advocating in support of the U.S. designated foreign terror organization Hamas in its war on Israel and Jews and also advocates for the overthrow of the United States.”
 
 Heres one of the most disturbing quotes from The Peoples Forum:
 
@@ -114,22 +115,22 @@ This is the sort of commentary you will find in Chinas own doctrine called "Unre
 
 *The Justice Education Fund*
 
-"The Justice and Education Fund (JEF) is an example of another 501(c)(3) organization that received over $20 million through GSPF in just 2019 and 2020 alone. Records indicate a $64,500 grant from JEF to the People’s Forum in 2020. Beyond financial transactions, JEF’s leadership is closely aligned with the Singham Network. JEF’s board includes Manolo De Los Santos and David Sung Mo Chung, both of whom also hold positions as officers at the People’s Forum and have been arrested by NYPD at SID4P-led direct-action events in recent months."
+> "The Justice and Education Fund (JEF) is an example of another 501(c)(3) organization that received over $20 million through GSPF in just 2019 and 2020 alone. Records indicate a $64,500 grant from JEF to the People’s Forum in 2020. Beyond financial transactions, JEF’s leadership is closely aligned with the Singham Network. JEF’s board includes Manolo De Los Santos and David Sung Mo Chung, both of whom also hold positions as officers at the People’s Forum and have been arrested by NYPD at SID4P-led direct-action events in recent months."
 
-"Notably, JEF also appears to facilitate the transfer of funds to Singham-linked entities abroad. For example, in 2022, JEF paid NewsClick $2.9 million and Maku Media $2.3 million as independent contractors for the “production of online news programs.”
+> "Notably, JEF also appears to facilitate the transfer of funds to Singham-linked entities abroad. For example, in 2022, JEF paid NewsClick $2.9 million and Maku Media $2.3 million as independent contractors for the “production of online news programs.”
 
 *The United Community Fund*
 
-"The United Community Fund (UCF) plays a role similar to that of the JEF within the Singham Network. Notably, in 2019, the UCF received an $8.33 million grant from the JEF.26 Additionally, during the same year, it allocated over $3 million in grants to the People’s Forum and $700,000 to the Tricontinental Institute. This underscores the intricate financial interplay between the People’s Forum, JEF, and UCF"
+> "The United Community Fund (UCF) plays a role similar to that of the JEF within the Singham Network. Notably, in 2019, the UCF received an $8.33 million grant from the JEF.26 Additionally, during the same year, it allocated over $3 million in grants to the People’s Forum and $700,000 to the Tricontinental Institute. This underscores the intricate financial interplay between the People’s Forum, JEF, and UCF"
 
-"The UCF’s personnel roster exhibits significant overlap with individuals and organizations affiliated with Singham. For instance, in 2019, Tings Chak served as a Director and Secretary of the UCF.27 Chak, a Beijing-based researcher, is associated with Dongsheng News, the Tricontinental Institute, and UCF. These three entities were named in an August 2023 letter by Senator Marco Rubio (R-FL), urging the Department of Justice (DOJ) to investigate them for potential violations of the Foreign Agents Registration Act (FARA).28 Finally, Chak’s membership in the IPA’s art and culture working group serves as an example of her association with a recognized SID4P Convenor."
+> "The UCF’s personnel roster exhibits significant overlap with individuals and organizations affiliated with Singham. For instance, in 2019, Tings Chak served as a Director and Secretary of the UCF.27 Chak, a Beijing-based researcher, is associated with Dongsheng News, the Tricontinental Institute, and UCF. These three entities were named in an August 2023 letter by Senator Marco Rubio (R-FL), urging the Department of Justice (DOJ) to investigate them for potential violations of the Foreign Agents Registration Act (FARA).28 Finally, Chak’s membership in the IPA’s art and culture working group serves as an example of her association with a recognized SID4P Convenor."
 
 *The Progress Unity Fund*
 
-"In contrast to the People’s Forum, the ANSWER Coalition operates under the fiscal sponsorship of the Progress Unity Fund (PUF) rather than being an IRS-registered entity itself.31 As recently as 2019, ANSWER Coalition and PUF shared an address in San Francisco, which also served as a frequent venue for Party for Socialism and Liberation (PSL) activities, indicating a significant overlap between the three.32 Public tax records reveal that PUF granted ANSWER Coalition approximately $244,000 over the past five years. However, between 2019 and 2020, PUF experienced an unexplained contraction in revenue of over 90%, declining from $1.9 million to $126,000. This suggests a state of
+> "In contrast to the People’s Forum, the ANSWER Coalition operates under the fiscal sponsorship of the Progress Unity Fund (PUF) rather than being an IRS-registered entity itself.31 As recently as 2019, ANSWER Coalition and PUF shared an address in San Francisco, which also served as a frequent venue for Party for Socialism and Liberation (PSL) activities, indicating a significant overlap between the three.32 Public tax records reveal that PUF granted ANSWER Coalition approximately $244,000 over the past five years. However, between 2019 and 2020, PUF experienced an unexplained contraction in revenue of over 90%, declining from $1.9 million to $126,000. This suggests a state of
 operational dormancy from 2022, despite PUF’s continued fiscal sponsorship of ANSWER."
 
-"The PUF also functions as a fiscal sponsor for an organization known as “Pivot to Peace,” which has ties to the CCP and operates within the United States. In May 2023, Pivot to Peace activist Henry Liang was arrested for FARA violations. According to a Department of Justice press release, Liang was clandestinely working as an operative
+> "The PUF also functions as a fiscal sponsor for an organization known as “Pivot to Peace,” which has ties to the CCP and operates within the United States. In May 2023, Pivot to Peace activist Henry Liang was arrested for FARA violations. According to a Department of Justice press release, Liang was clandestinely working as an operative
 for the CCP while engaged in activities for Pivot to Peace"
 
 ### Evidence Enough?
@@ -146,13 +147,13 @@ His wife runs a foundation called "CODEPINK" and Singham is a co-founder with he
 
 The interesting paragraphs from this:
 
-Since 2017, Code Pink has received over $1.4 million, representing approximately 25 percent of its total funding, from sources linked to Neville Roy Singham. Singham is a tech executive who married Code Pink co-founder Jodie Evans in 2017. The New York Times reported in August 2023 that Singham works closely with the Chinese government media machine and finances propaganda worldwide through nonprofit groups and shell companies.
+> Since 2017, Code Pink has received over $1.4 million, representing approximately 25 percent of its total funding, from sources linked to Neville Roy Singham. Singham is a tech executive who married Code Pink co-founder Jodie Evans in 2017. The New York Times reported in August 2023 that Singham works closely with the Chinese government media machine and finances propaganda worldwide through nonprofit groups and shell companies.
 
-The timing of this funding coincides with a documented shift in Code Pink's position on China. Before 2017, Evans made statements such as "We demand China stop brutal repression of their women's human rights defenders." But after 2017, Evans has described China as "a defender of the oppressed and a model for economic growth without slavery or war." In 2020, Code Pink launched its "China Is Not Our Enemy" campaign. The New York Times noted that Code Pink stopped criticizing the Chinese government's treatment of Uyghur Muslims and began defending it.
+> The timing of this funding coincides with a documented shift in Code Pink's position on China. Before 2017, Evans made statements such as "We demand China stop brutal repression of their women's human rights defenders." But after 2017, Evans has described China as "a defender of the oppressed and a model for economic growth without slavery or war." In 2020, Code Pink launched its "China Is Not Our Enemy" campaign. The New York Times noted that Code Pink stopped criticizing the Chinese government's treatment of Uyghur Muslims and began defending it.
 
-Code Pink has publicly described Uyghurs as "terrorists" and its activists have met with the House Select Committee on China to advocate against evidence of forced labor in Xinjiang. The organization operates alongside The People's Forum, which has received over $20.4 million from Singham and offers courses titled "Lenin and the Path to Revolution" and "China75 - When the People Stand Up." The People's Forum Executive Director has appeared on CGTN, a Chinese state-owned media outlet that the Department of Justice directed to register under FARA in 2019.
+> Code Pink has publicly described Uyghurs as "terrorists" and its activists have met with the House Select Committee on China to advocate against evidence of forced labor in Xinjiang. The organization operates alongside The People's Forum, which has received over $20.4 million from Singham and offers courses titled "Lenin and the Path to Revolution" and "China75 - When the People Stand Up." The People's Forum Executive Director has appeared on CGTN, a Chinese state-owned media outlet that the Department of Justice directed to register under FARA in 2019.
 
-Beyond FARA concerns, Code Pink has partnered with and advocated for individuals and organizations such as the Popular Front for the Liberation of Palestine (PFLP), which calls into question whether it has provided material support for to designated FTOs. In January 2023, Code Pink partnered with Samidoun, an organization designated as a front for the PFLP. Alongside Samidoun, Code Pink organized a campaign calling for the release of Ahmad Sa'adat, a PFLP Secretary-General who was convicted and sentenced to 30 years for leading a terrorist organization responsible for multiple attacks against Iraeli military and civilians. These activities raise serious questions about whether Code Pink has provided material support to designated FTOs.
+> Beyond FARA concerns, Code Pink has partnered with and advocated for individuals and organizations such as the Popular Front for the Liberation of Palestine (PFLP), which calls into question whether it has provided material support for to designated FTOs. In January 2023, Code Pink partnered with Samidoun, an organization designated as a front for the PFLP. Alongside Samidoun, Code Pink organized a campaign calling for the release of Ahmad Sa'adat, a PFLP Secretary-General who was convicted and sentenced to 30 years for leading a terrorist organization responsible for multiple attacks against Iraeli military and civilians. These activities raise serious questions about whether Code Pink has provided material support to designated FTOs.
 
 Code Pink.. is clearly a CCP propaganda machine. I could post _alot_ more here about this company. I will leave some links instead. This is one of many companies pushing narratives in the US for purposes of disruption.
 
@@ -164,15 +165,15 @@ You would think in 2023 when this investigation from the New York Times was publ
 
 The article, has some wonderful paragraphs:
 
-"But Mr. Singham, 69, himself sits in Shanghai, where one outlet in his network is co-producing a YouTube show financed in part by the city’s propaganda department. Two others are working with a Chinese university to “spread China’s voice to the world.” And last month, Mr. Singham joined a Communist Party workshop about promoting the party internationally."
+> "But Mr. Singham, 69, himself sits in Shanghai, where one outlet in his network is co-producing a YouTube show financed in part by the city’s propaganda department. Two others are working with a Chinese university to “spread China’s voice to the world.” And last month, Mr. Singham joined a Communist Party workshop about promoting the party internationally."
 
 or 
 
-"Mr. Singham’s groups have produced YouTube videos that, together, racked up millions of views. They also seek to influence real-world politics by meeting with congressional aides, training politicians in Africa, running candidates in South African elections and organizing protests like the one in London that erupted into violence."
+> "Mr. Singham’s groups have produced YouTube videos that, together, racked up millions of views. They also seek to influence real-world politics by meeting with congressional aides, training politicians in Africa, running candidates in South African elections and organizing protests like the one in London that erupted into violence."
 
 or 
 
-"None of Mr. Singham’s nonprofits have registered under the Foreign Agents Registration Act, as is required of groups that seek to influence public opinion on behalf of foreign powers. That usually applies to groups taking money or orders from foreign governments. Legal experts said Mr. Singham’s network was an unusual case."
+> "None of Mr. Singham’s nonprofits have registered under the Foreign Agents Registration Act, as is required of groups that seek to influence public opinion on behalf of foreign powers. That usually applies to groups taking money or orders from foreign governments. Legal experts said Mr. Singham’s network was an unusual case."
 
 Can someone explain, how the Washington Post says "scant evidence" in 2026 and the NYT says "The Times unraveled a financial network that stretches from Chicago to Shanghai and uses American nonprofits to push Chinese talking points worldwide."
 
@@ -194,17 +195,16 @@ Chinese biolabs have been found in a number of sites in the US:
 
 This is 2023, but the reports findings are disturbing.
 
-"
 Here's what the Committee found:
 
-    The illegal biolab was run by a PRC citizen who is a wanted fugitive from Canada with a $330 million Canadian dollar judgment against him for stealing American intellectual property.
-    This PRC citizen was a top official at a PRC-state-controlled company and had links to military-civil fusion entities.
-    The illegal biolab received millions of dollars in unexplained payments from PRC banks while running the illegal biolab.
-    The illegal biolab contained thousands of samples of labeled, unlabeled, and encoded potential pathogens, including HIV, malaria, tuberculosis, and Covid.
-    The illegal biolab also contained a freezer labeled “Ebola,” which contained unlabeled, sealed silver bags consistent with how the lab stored high risk biological materials. Ebola is a Select Agent with a lethality rate between 25-90%.
-    The biolab contained nearly a thousand transgenic mice, genetically engineered to mimic the human immune system. Lab workers said that the mice were designed “to catch and carry the COVID-19 virus.”
-    After local officials who discovered the lab sought help from the CDC and others, the CDC refused to test any of the samples. 
-"
+> The illegal biolab was run by a PRC citizen who is a wanted fugitive from Canada with a $330 million Canadian dollar judgment against him for stealing American intellectual property.
+> This PRC citizen was a top official at a PRC-state-controlled company and had links to military-civil fusion entities.
+> The illegal biolab received millions of dollars in unexplained payments from PRC banks while running the illegal biolab.
+> The illegal biolab contained thousands of samples of labeled, unlabeled, and encoded potential pathogens, including HIV, malaria, tuberculosis, and Covid.
+> The illegal biolab also contained a freezer labeled “Ebola,” which contained unlabeled, sealed silver bags consistent with how the lab stored high risk biological materials. Ebola is a Select Agent with a lethality rate between 25-90%.
+> The biolab contained nearly a thousand transgenic mice, genetically engineered to mimic the human immune system. Lab workers said that the mice were designed “to catch and carry the COVID-19 virus.”
+> After local officials who discovered the lab sought help from the CDC and others, the CDC refused to test any of the samples. 
+
 
 [BBC Chinese nationals accused of smuuggling 'dangerous biological pathogen' into US](https://www.bbc.com/news/articles/c4gkdppymk4o)
 
@@ -222,7 +222,7 @@ The Chinese have been using citizens as spies as well as CCP spies to access sen
 
 [Startling Stats FactSheet: Encounters of Chinese Nationals Surpass All Fiscal Year 2023 at SouthWest Border](https://homeland.house.gov/2024/04/18/startling-stats-factsheet-encounters-of-chinese-nationals-surpass-all-fiscal-year-2023-at-the-southwest-border/)
 
-"So far in FY24, 24,376 Chinese nationals have been encountered at the Southwest border, 24,214 of them apprehended illegally crossing the border. Encounters of Chinese nationals in March 2024 increased over 8,000 percent compared to March 2021, and have surpassed all of last fiscal year––just six months into FY24".
+> "So far in FY24, 24,376 Chinese nationals have been encountered at the Southwest border, 24,214 of them apprehended illegally crossing the border. Encounters of Chinese nationals in March 2024 increased over 8,000 percent compared to March 2021, and have surpassed all of last fiscal year––just six months into FY24".
 
 This is insane - and this was 3 yrs ago. 
 
