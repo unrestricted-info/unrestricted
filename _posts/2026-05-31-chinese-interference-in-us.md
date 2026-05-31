@@ -298,6 +298,10 @@ But western media should be able to unearth and discover and expose all this? We
 
 [CBS News - China investing "unprecedented resources" in disinformation, surveillance tactics, new report says](https://www.cbsnews.com/news/china-investing-disinformation-surveillance-censorship-new-report/)
 
+[Freedom House - Beijings Global Megaphone](https://freedomhouse.org/report/special-report/2020/beijings-global-megaphone)
+
+Consider Chinas estimated to be spending up to 15 billion USD a year just on international propaganda alone. In contrast the juggernaught that is Netflix spends 2 billion USD a year. Let that sink in a bit. The CCP outspends Netflix 7 to 1 on marketing. 
+
 The western media (not all) are complicit in this. There is clear evidence too, that some of the larger groups (BBC and others) have "sponsorships" for articles and media from shell companies paid for by the CCP. I'll do a deeper dive on that later (theres alot coming in on this).
 
 If you want to get this sort of thing out to people - then share it. Tell people, share links, find more and share them. The power of the individual is far greater these days than you are lead to believe. 
