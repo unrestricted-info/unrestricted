@@ -2,7 +2,7 @@
 layout: post
 title:  "Chinese interference - Media covers for them?"
 author: trevor
-categories: [ gaming, steam ]
+categories: [ China, CN, Warfare ]
 tags: [red, yellow]
 image: assets/images/2026-05/chinese-interference.jpg
 description: "There is a large amount of quite clear interefernece in the US in many areas and US media seems to be cover this up for some reason?"
