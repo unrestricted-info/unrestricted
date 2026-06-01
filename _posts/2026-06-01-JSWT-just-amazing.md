@@ -5,7 +5,7 @@ author: trevor
 categories: [ science, astronomy ]
 tags: [red, yellow]
 image: assets/images/2026-06/sas-article-nasa-jwst-2022.avif
-description: "The JWST Telescope is really quite amazing. A dive into this astonishing piece of hardware and its ramifications for us all."
+description: "The JWST is really quite amazing. A light look into this astonishing piece of hardware and how some of its observations may impact us all."
 featured: true
 ---
 
@@ -19,7 +19,7 @@ JWST - James Web Space Telescope.
 
 > "He was the second administrator of NASA from February 14, 1961, to October 7, 1968. Webb led NASA from the beginning of the Kennedy administration through the end of the Johnson administration, thus overseeing each of the critical first crewed missions throughout the Mercury and Gemini programs until days before the launch of the first Apollo mission."
 
-The JWST is a specialized telesceope intended to look deep into the cosmos, especially able to look at some of the oldest stars formed in the universe.
+The JWST is a specialized telesceope intended to look deep into the cosmos, especially able to look at some of the oldest galaxies and stars formed in the universe.
 
 [JWST Website](https://science.nasa.gov/mission/webb/)
 
