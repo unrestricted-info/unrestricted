@@ -99,7 +99,7 @@ Changing Rivers, moving Mountains and Clearing Land are activities humans have b
 
 [UK GBC - Iron Ore Mining Impacts](https://ukgbc.org/our-work/topics/embodied-ecological-impacts/iron-ore/)
 
-[ALGA - Urban Sorawl 'destroying habitats and accelerating extinction crisis'](https://alga.com.au/urban-sprawl-destroying-habitats-and-accelerating-extinction-crisis/)
+[ALGA - Urban Sprawl 'destroying habitats and accelerating extinction crisis'](https://alga.com.au/urban-sprawl-destroying-habitats-and-accelerating-extinction-crisis/)
 
 Almost any way you look at it, our land use whether it be residential, mining, industrialm, farming or transport is outright destructive and as a human race we seem to have lost our ability to even recognise the deep impacts this is having on ourselves as well as all the systems around us. 
 
