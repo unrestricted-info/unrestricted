@@ -4,7 +4,7 @@ title:  "The footprint of man."
 author: trevor
 categories: [ science, world, future ]
 tags: [red, yellow]
-image: assets/images/2026-05/2026-05-17_23-37-steam-machine-may-kill-consoles.png
+image: assets/images/2026-06/2026-06-02-footprint-of-man.avif
 description: "The world has changed. And in more ways than we see directly - many of the systems that support us on this Earth are changing too. What does this mean for us?"
 featured: true
 ---
@@ -105,7 +105,7 @@ Almost any way you look at it, our land use whether it be residential, mining, i
 
 ## The Shadow of the Foot
 
-Our footprint on Earth is now so large that _we_ are the source of the majority of change happening on Earth. Not biology or natural systems, its us. 
+Humanitys footprint on Earth is now so large that _we_ are the source of the majority of change happening on Earth. Not biology or natural systems, its us. 
 
 If we want a future at all, then this fundamental acknoledgement has to be made clear. The scale isnt one faceted (like Climate Change) side that needs addressing with a single "Electrification" solution - in fact, there is far too much ignorance that the impacts of throwaway "mobile phone" styled EV cars is _good_ for us or the Earth at all? 
 
