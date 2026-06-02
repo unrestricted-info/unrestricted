@@ -22,6 +22,7 @@ authors:
 
 # Plugins
 plugins:
+  - jekyll-admin
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-feed
