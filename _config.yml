@@ -53,4 +53,13 @@ kramdown:
 # Lazy Images ("enabled" or "disabled")
 lazyimages: "disabled"
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+
 exclude: [changelog.md, LICENSE.txt, README.md, Gemfile, Gemfile.lock]
