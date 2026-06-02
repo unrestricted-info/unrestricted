@@ -27,6 +27,8 @@ In recent years, it has been researched that there is likely a threshold in glob
 
 [Ocean Learning Hub](https://www.whoi.edu/ocean-learning-hub/ocean-topics/climate-weather/abrupt-climate-change/common-misconceptions-about-abrupt-climate-change/)
 
+[YT - New Evidence We are Entering AMOC Collapse](https://www.youtube.com/watch?v=iw9AiEG-Qww)
+
 The concern is that with a reduction in the movement of these key systems, there is a possible long term biological impact on places like the UK and Ireland in the future.
 
 Many of these systems fluctuate over time in anycase. However, with the imapct of humans on the planet, in the last 200yrs the Atlantic Heat Pump is starting to show signs of our precesnce.
