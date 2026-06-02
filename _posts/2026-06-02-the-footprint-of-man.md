@@ -110,3 +110,4 @@ Humanitys footprint on Earth is now so large that _we_ are the source of the maj
 If we want a future at all, then this fundamental acknoledgement has to be made clear. The scale isnt one faceted (like Climate Change) side that needs addressing with a single "Electrification" solution - in fact, there is far too much ignorance that the impacts of throwaway "mobile phone" styled EV cars is _good_ for us or the Earth at all? 
 
 We have to first acknowledge that our footprint as a whole is now too big for the Earth itself and it needs to be reigned in - on _all_ sides at once. If we dont, we face a bleak future where our Mother Earth will simply not support our existence and we will have ruined our once beautiful home for the sake of progress, money and power.
+
