@@ -111,3 +111,4 @@ If we want a future at all, then this fundamental acknoledgement has to be made 
 
 We have to first acknowledge that our footprint as a whole is now too big for the Earth itself and it needs to be reigned in - on _all_ sides at once. If we dont, we face a bleak future where our Mother Earth will simply not support our existence and we will have ruined our once beautiful home for the sake of progress, money and power.
 
+
