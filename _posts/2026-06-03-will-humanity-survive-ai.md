@@ -143,7 +143,7 @@ Why do businesses want AI?
 - Dont want to be left behind, because everyones doing it - FOMO
 - Must have bullet point for investors - get money
 
-I get it. I really to, AI is going to change the world, and as a business who wants to be left behind. 
+I get it. I really do, AI is going to change the world, and as a business, who wants to be left behind. 
 
 But heres the question. If the end user _doesnt_ benefit greatly from this change, then why would people buy services or tools with it? And we are seeing this backlash already, with AI consumer sentiment at extremely low levels:
 
@@ -164,7 +164,10 @@ ROI is not looking viable anytime soon. Fundamentally, we are looking at the typ
 We have a conundrum that I think many consumers are starting to realize.
 
 With two quite clear outcomes:
-1. If AI is successful and integrates with all business, then the vast majority of us will be out of work. That means the governments wont be able to collect taxes to pay for our infrastructure (let alone anything extra) and this means business wont actually earn money because of the large unemployment. 
+
+#### Outcome 1
+
+> If AI is successful and integrates with all business, then the vast majority of us will be out of work. That means the governments wont be able to collect taxes to pay for our infrastructure (let alone anything extra) and this means business wont actually earn money because of the large unemployment. 
 
 If you want an example of 1. Its happening right now in China. Huge youth unemployment, service jobs and IT jobs disappearing fast, diving local economic activity and robotics and automated vehicles replacing menial roles (like delivery services). 
 
@@ -174,7 +177,9 @@ If you want an example of 1. Its happening right now in China. Huge youth unempl
 
 [The quiet layoffs sweeping Chinas tech giants](https://restofworld.org/2026/china-tech-layoffs-alibaba-baidu-ai-pivot/)
 
-2. If AI fails or only partially works, in niche areas (this is what I think is going to happen), then the _trillions_ of dollars that have been poured into  it is going to be for nothing. Remember 60% of investment is going into AI in the US right now - that could be going into Energy systems, Healthcare, Infrastructure, Transport and more - areas that _change_ peoples lives right now. 
+#### Outcome 2
+
+> If AI fails or only partially works, in niche areas (this is what I think is going to happen), then the _trillions_ of dollars that have been poured into  it is going to be for nothing. Remember 60% of investment is going into AI in the US right now - that could be going into Energy systems, Healthcare, Infrastructure, Transport and more - areas that _change_ peoples lives right now. 
 
 The failure of AI has huge ramifications for the whole worlds economic system. As I have written before about the whole debt bubble, a substantial portion of it, is AI debt.
 
