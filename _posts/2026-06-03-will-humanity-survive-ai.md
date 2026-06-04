@@ -94,7 +94,7 @@ Read this carefully as the information in this paragraph is important:
 
 The money is pouring in, for the pot of gold at the end of the rainbow. 
 
-![Percentage of U.S. Stock Market Trading at Over 10x Price/Sales](assets/images/2026-06/2026-06-03-trading-at-over-10x.png)
+![Percentage of U.S. Stock Market Trading at Over 10x Price/Sales](/assets/images/2026-06/2026-06-03-trading-at-over-10x.png)
 
 And the scale of debt this investment is bringing?
 
@@ -179,7 +179,7 @@ If you want an example of 1. Its happening right now in China. Huge youth unempl
 
 #### Outcome 2
 
-> If AI fails or only partially works, in niche areas (this is what I think is going to happen), then the _trillions_ of dollars that have been poured into  it is going to be for nothing. Remember 60% of investment is going into AI in the US right now - that could be going into Energy systems, Healthcare, Infrastructure, Transport and more - areas that _change_ peoples lives right now. 
+> If AI fails or only partially works, in niche areas (this is what I think is going to happen), then the _trillions_ of dollars that have been poured into  it, is going to be for nothing. Remember 60% of investment is going into AI in the US right now - that could be going into Energy systems, Healthcare, Infrastructure, Transport and more - areas that _change_ peoples lives right now. 
 
 The failure of AI has huge ramifications for the whole worlds economic system. As I have written before about the whole debt bubble, a substantial portion of it, is AI debt.
 
