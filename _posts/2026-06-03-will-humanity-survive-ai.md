@@ -94,7 +94,7 @@ Read this carefully as the information in this paragraph is important:
 
 The money is pouring in, for the pot of gold at the end of the rainbow. 
 
-![Percentage of U.S. Stock Market Trading at Over 10x Price / Sales](assets/images/2026-06/2026-06-03-trading-at-over-10x.png)
+![Percentage of U.S. Stock Market Trading at Over 10x Price/Sales](assets/images/2026-06/2026-06-03-trading-at-over-10x.png)
 
 And the scale of debt this investment is bringing?
 
