@@ -188,3 +188,4 @@ At some point the downturn in economies is going to be deeply impactful.
 
 Today, we can see that businesses are still selling the same outcome they did in 2015 - "AGI is coming, and it will change the world!". And yet. Here we are 11 yrs later.. looking at how it _might_ change the world, and worryingly, it does not look good if it succeeds, and if it doesnt. 
 
+
