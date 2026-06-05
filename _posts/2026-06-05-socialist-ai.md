@@ -17,7 +17,7 @@ After reading an excellent article here, this got me into thinking about real, a
 
 The premise behind the article is fundamentally a simple one. It is the humans that get to choose how AI is, or isnt used. And companies, are actually, more impacted by consumers than they care to recognise. They are directly controlled and managed by humans, and market forces, which means, we _all_ decide on whether Google or OpenAI or MS succeed or fail - they are _not_ in the drivers seat - we are.
 
-Think about that. What have _all_ these companies been tell you, the consumer? Do you know why? Because if, at any time, the true power of AI systems move toward becoming controlling systems that manage all the mundane things that people buy product and services for, then companies, will be come less and less required. But they dont what you to know that, they what the AI to serve them, so you can serve them too. 
+Think about that. What have _all_ these companies been tell you, the consumer? Do you know why? Because if, at any time, the true power of AI systems move toward becoming controlling systems that manage all the mundane things that people buy product and services for, then companies, will be come less and less required. But they dont what you to know that, they what the AI to serve them, so you can serve them too (with money). 
 
 The upshot, is that this AI "world" the companies are selling is very unlikely to occur for four main reasons:
 
@@ -40,9 +40,9 @@ Companies themselves will cease to be companies as we currently understand them.
 
 This is a topic people are now starting to consider and talk about. The ramifications are interesting, since much of how government works today is very "captialistic" and somewhat "opportunistic" to put it nicely.
 
-The outcome of putting an AI in departmental control of procurement for instance, would make many companies (especially in places like the DoD) start to fear for their companies profits and share price.
+The outcome of putting an AI in departmental control of procurement, for instance, would make many companies (especially in places like the DoD) start to fear for their companies profits and share price.
 
-Theres a freat fictional story of how this might go here:
+Theres a fictional story of how this might go here:
 
 [Bertrand Duperrins Notepad - 2035: AI does everything and there are no more jobs](https://www.duperrin.com/english/2025/07/22/2035-ai-no-more-jobs/)
 
@@ -56,7 +56,7 @@ An MIT researcher recently published a book explaining his 12 outcomes for AI (s
 
 I think that these outcomes are somewhat fearmongering (the same as companies are doing) and the _real_ outcomes are nothing like any of these outcomes - mainly because it assumes constraints of now, hold into the future. Which doesnt make sense.
 
-What do I mean? Like in the fictional article there are new forms of communities, engagement, economies and so on. You cannot make predictions on thinks you simply have no possible way of determining what they would look and operate like. 
+What do I mean? Like in the fictional article there are new forms of communities, engagement, economies and so on. You cannot make predictions on things you simply have no possible way of determining what they would look and operate like. 
 
 ## Socialism as AI
 
@@ -78,7 +78,7 @@ Extend this idea, to the town _automating_ everything (over decades of course) t
 
 At some point, the town decides to give everyone a common high wage (since money isnt really that important now) and you have a socialist collective. 
 
-Theres obviously a great deal more to this process than this simple example, but you see the outcome. Yes, AI is being used, but why use it in a way that _doesnt_ benefit you. The town benefits greatly (economically and socially) from such an implementation, and added to that, everyone is happier and persue their own dreams and goals without the hinderance of work. 
+Theres obviously a great deal more to this process than this simple example, but you see the outcome. Yes, AI is being used, but why use it in a way that _doesnt_ benefit you. The town benefits greatly (economically and socially) from such an implementation, and added to that, everyone is happier and can persue their own dreams and goals without the hinderance of work. 
 
 Many people might choose to remain working, some may become creatives, others might just tinker with old cars - the human passion projects that people want to work on, but cannot, become reality. 
 
