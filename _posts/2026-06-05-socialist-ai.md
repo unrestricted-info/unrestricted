@@ -86,9 +86,9 @@ Does this sound like a "big bad AI ending"... of course not. Its a sensible and 
 
 ## Conclusion
 
-The next time you see Sam Altman, or Elon Musk fearmongering about AI and how you should be scared, and let them control it, and let them sell you its power while they keep it tamed - dont believe this BS. That town I described above, doesnt _need_ any of those companies, it doesnt _need_ any big global tech company to manage the AI that controls the town. 
+The next time you see Sam Altman, or Elon Musk fearmongering about AI and how you should be scared - dont believe this BS. They want to control it, and then sell you its power while they keep it tamed. That town I described above, doesnt _need_ any of those companies, it doesnt _need_ any big global tech company to manage the AI that controls the town. 
 
-The accessibility to AI systems, even now, mean that this is a truly feasible process. Right Now. And this is what has MS, Google and others all scared as hell - you the customer, might compete with them, and thats not good for their business and the Utopia of the town I described, is not what they want because it doesnt include them.
+The accessibility to AI systems, even now, means that this is a truly feasible process. Right Now. And this is what has MS, Google and others all scared as hell - you the customer, might compete with them, and thats not good for their business. And the Utopia of the town I described, is not what they want because it doesnt include them.
 
 I beleive AI will be used like in this town. I beleive we are being sold marketing BS from these big tech giants for one specific reason: They have spent _so_ much on AI buildup and told their shareholders it will make them trillions, that they have to keep reiterating it or their company disappears in a pop of debt. 
 
