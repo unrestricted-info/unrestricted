@@ -4,7 +4,7 @@ title:  "Michael Levin and bioelectricity"
 author: trevor
 categories: [ science, biology, future ]
 tags: [red, yellow]
-image: assets/images/2026-06/2026-06-02-footprint-of-man.avif
+image: assets/images/2026-06/2026-06-06-bioelectric-development.png
 description: "After watching an interview with Michael Levin's discussion about what he researched with cells and their organisation and communication."
 featured: true
 ---
