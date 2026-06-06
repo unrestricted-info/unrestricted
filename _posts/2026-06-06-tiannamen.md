@@ -61,6 +61,8 @@ Back in 1989, the rhetoric against the CCP and Chinese officials was very strong
 
 [Los Angeles Times - Troops Fire on Beijing Crowds](https://www.latimes.com/world/la-fg-tiananmen-archive-1989jun04-story.html)
 
+[The Washington Post - Death in Tiananmen](https://www.washingtonpost.com/world/1989/06/05/death-tiananmen/)
+
 Original News clippings are not easy to find. The CCP has done a good job suppressing even our own media.
 
 [Cry of Tiananmen](https://books.google.com.au/books?id=LWNWAAAAIBAJ&pg=PA2&dq=Tiananmen&article_id=5399,4886586&hl=en&sa=X&ved=2ahUKEwiN4vrx5_GUAxXEn68BHQTjNWUQ6AF6BAgIEAM#v=onepage&q=Tiananmen&f=false)
