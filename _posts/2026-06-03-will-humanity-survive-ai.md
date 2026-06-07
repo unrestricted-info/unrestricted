@@ -112,6 +112,12 @@ Companies like Oracle, MS and OpenAI are struggling if you look at their books:
 
 Does this seem sustainable?
 
+There are signs, that it has already reached its limits:
+
+[Economy Media - Why Tech Companies Are Quietly Cancelling AI Data Centers](https://www.youtube.com/watch?v=e0Dlr07jfjA)
+
+[Silicon Money - Why Tech CEOs Are Quietly Cancelling Their AI Plans](https://www.youtube.com/watch?v=NBtUgWn-nHs)
+
 ### How far can it go?
 
 Heres whats coming - more debt, more investment and more over-hype. 
